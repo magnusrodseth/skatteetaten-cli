@@ -67,6 +67,7 @@ skt whoami                       # confirm the session (prints your name)
 skt skattekort                   # tax-card line items for the active year
 skt skattemelding                # most recent tax return (add --year 2024)
 skt oppgjor                      # skatteoppgjør / Min skatt landing
+skt whatif --field pensjonsinnbetaling --add 50000   # recompute tax with one change
 skt status                       # session + storage backend
 skt logout                       # remove the stored session
 ```
@@ -90,6 +91,21 @@ data, so it is stored like any secret. Choose the backend with `SKT_STORE`:
 | `op` / `1password` | 1Password via the `op` CLI (`SKT_OP_VAULT`, `SKT_OP_ACCOUNT`) |
 | `file` | `~/.config/skatteetaten-cli/*.json` (0600), **plaintext, opt-in** for headless use |
 
+## What-if: optimize before the deadline
+
+`skt whatif` asks the portal to recompute your tax with a single skattekort
+field changed — a pure calculation that **saves nothing**. Great for
+"if I raise my pension by X, what happens to my tax?":
+
+```bash
+skt whatif --field pensjonsinnbetaling --add 50000   # add 50 000 kr of pension
+skt whatif --field innskudd --set 200000             # set bank deposits to an amount
+skt whatif --field paaloepteRenterGenerell --add -10000 --json
+```
+
+Use the field names from the rightmost "Felt" column of `skt skattekort`. Output
+shows the changed field and your **sum skatt** before vs after, with the delta.
+
 ## Reconciling against your bank (the point)
 
 `skt skattemelding --json` exposes `visningsdata.konto[]` — each with the bank
@@ -110,10 +126,12 @@ match what your bank actually reports.
 
 ## Scope
 
-- **In scope (v1):** `login` / `logout` / `status` / `whoami`, and the read
-  commands `skattekort`, `skattemelding [--year]`, `oppgjor`, each with `--json`.
+- **In scope:** `login` / `logout` / `status` / `whoami`, the read commands
+  `skattekort`, `skattemelding [--year]`, `oppgjor`, and the pure-calculation
+  `whatif` — each with `--json`.
 - **Not in scope:** submitting a skattemelding, editing a skattekort, or any
   other mutation. Those endpoints exist but are deliberately not wrapped.
+  `whatif` uses the portal's own what-if calculator and persists nothing.
 
 ## Development
 

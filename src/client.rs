@@ -53,6 +53,9 @@ fn url_skattemelding_hent(year: i32) -> String {
         base()
     )
 }
+fn url_skattekort_beregn() -> String {
+    format!("{}/api/skattekort/visningsdata/beregn/v2", base())
+}
 
 /// Honest User-Agent, overridable via `SKT_USER_AGENT` (e.g. if a WAF only
 /// accepts a browser-like value).
@@ -93,6 +96,28 @@ impl ApiClient {
     fn get_json(&self, url: &str) -> Result<serde_json::Value> {
         let resp = check(self.get(url).send()?)?;
         Ok(resp.json()?)
+    }
+
+    fn post_json(&self, url: &str, body: &serde_json::Value) -> Result<serde_json::Value> {
+        let resp = check(
+            self.http
+                .post(url)
+                .header(ACCEPT, "application/json")
+                .header(reqwest::header::CONTENT_TYPE, "application/json")
+                .header(COOKIE, &self.cookie_header)
+                .header(USER_AGENT, user_agent())
+                .json(body)
+                .send()?,
+        )?;
+        Ok(resp.json()?)
+    }
+
+    /// `POST /api/skattekort/visningsdata/beregn/v2`: a pure what-if calculation.
+    /// The body is the bare `visningsdata` object (not the whole envelope) with
+    /// one field changed; the response carries a recomputed `beregnetSkatt` at
+    /// its root. Persists nothing. (Contract verified live 2026-07-09.)
+    pub fn beregn(&self, body: &serde_json::Value) -> Result<serde_json::Value> {
+        self.post_json(&url_skattekort_beregn(), body)
     }
 
     /// `GET /api/minside/loginstatus`: cheap auth health check. Returns the

@@ -1,9 +1,10 @@
 //! Read commands: skattekort, skattemelding, oppgjør.
 
-use anyhow::Context;
+use anyhow::{anyhow, Context};
 
-use crate::cli::YearArgs;
+use crate::cli::{WhatifArgs, YearArgs};
 use crate::format::{self, OutputMode};
+use crate::whatif::{self, ChangeOp};
 
 pub fn skattekort(mode: OutputMode, mask: bool) -> anyhow::Result<()> {
     let client = crate::commands::authed_client()?;
@@ -57,6 +58,59 @@ pub fn oppgjor(mode: OutputMode) -> anyhow::Result<()> {
     // table shape, print the raw JSON and point at --json. This keeps the tool a
     // faithful, thin conduit for the one endpoint whose shape is least stable.
     format::print_json(&raw)
+}
+
+pub fn whatif(args: WhatifArgs, mode: OutputMode, mask: bool) -> anyhow::Result<()> {
+    let op = match (args.set, args.add) {
+        (Some(x), None) => ChangeOp::Set(x),
+        (None, Some(d)) => ChangeOp::Add(d),
+        _ => return Err(anyhow!("provide exactly one of --set or --add")),
+    };
+
+    let client = crate::commands::authed_client()?;
+
+    // Fetch the current skattekort, note the current tax, mutate one field, and
+    // ask the portal to recompute. Nothing is persisted. The `beregn` endpoint
+    // takes the bare `visningsdata` object (not the whole envelope) and returns a
+    // recomputed `beregnetSkatt` at the response root.
+    let mut body = client.skattekort_raw().context("fetching skattekort")?;
+    if body.get("visningsdata").is_none() {
+        return Err(anyhow!("unexpected skattekort response (no visningsdata)"));
+    }
+
+    let before_tax = whatif::sum_skatt(&body["visningsdata"]);
+    let old_total = whatif::field_total(&body["visningsdata"], &args.field);
+    let new_total =
+        whatif::apply_change(&mut body["visningsdata"], &args.field, op).map_err(|e| anyhow!(e))?;
+
+    let recomputed = client
+        .beregn(&body["visningsdata"])
+        .context("recomputing tax (beregn)")?;
+    let after_tax = whatif::sum_skatt(&recomputed);
+
+    if mode == OutputMode::Json {
+        return format::print_json(&serde_json::json!({
+            "field": args.field,
+            "fieldBefore": old_total,
+            "fieldAfter": new_total,
+            "taxBefore": before_tax,
+            "taxAfter": after_tax,
+            "taxDelta": match (before_tax, after_tax) {
+                (Some(b), Some(a)) => Some(a - b),
+                _ => None,
+            },
+        }));
+    }
+
+    format::whatif_table(
+        &args.field,
+        old_total,
+        new_total,
+        before_tax,
+        after_tax,
+        mask,
+    );
+    Ok(())
 }
 
 /// Best-effort default income year for the skattemelding: the year *before* the

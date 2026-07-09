@@ -75,6 +75,7 @@ Secrets live in one of three backends, chosen by `SKT_STORE`:
 | `skattekort` | tax-card line items for the active year (labels joined from the portal's dictionary) |
 | `skattemelding [--year N]` | tax return for a year (defaults to the most recent filed) |
 | `oppgjor` | skatteoppgjør / Min skatt landing (restskatt, konto, KID) — raw JSON |
+| `whatif --field <f> --set N \| --add N` | recompute tax with one skattekort field changed (pure, saves nothing) |
 
 Years: `skattekort` uses the active income year from the portal config;
 `skattemelding` defaults to the year before that. Pass `--year` to pick another.
@@ -93,6 +94,15 @@ Each `konto` entry is a bank account with its **deposit** and **interest earned*
 as Skatteetaten has them. Cross-check these against `sb1` (the SpareBank 1 CLI):
 do the balances and interest match what the bank actually reports? Use the
 `sparebank1-*` skills for the bank side.
+
+## What-if calculations
+
+`skt whatif --field <name> --set N` (or `--add N`) recomputes tax with one
+skattekort field changed, using the portal's own calculator. It **saves
+nothing** — pure what-if. Field names come from `skt skattekort` (the "Felt"
+column). Example: `skt whatif --field pensjonsinnbetaling --add 50000 --json`
+answers "how much less tax if I contribute 50 000 kr more to pension?". This is
+still read-only in spirit; it never submits or edits the real tax card.
 
 ## Etiquette
 

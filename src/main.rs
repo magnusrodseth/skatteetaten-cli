@@ -17,6 +17,7 @@ mod session;
 mod tekstliste;
 mod terms;
 mod util;
+mod whatif;
 
 use clap::Parser;
 

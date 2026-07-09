@@ -1,6 +1,6 @@
 [package]
 name = "skatteetaten-cli"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
 rust-version = "1.80"
 description = "Unofficial, read-only CLI for a private person's own Norwegian tax data from Skatteetaten's Min skatt portal (skattekort, skattemelding, skatteoppgjør). BankID login, JSON output for AI agents."
