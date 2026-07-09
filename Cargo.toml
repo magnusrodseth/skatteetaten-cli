@@ -9,6 +9,9 @@ repository = "https://github.com/magnusrodseth/skatteetaten-cli"
 readme = "README.md"
 keywords = ["skatteetaten", "skattemelding", "cli", "bankid", "norway"]
 categories = ["command-line-utilities"]
+# Repo-only artifacts don't belong in the published crate (keeps it lean and
+# under the crates.io size limit; the banner is referenced by absolute URL).
+exclude = ["docs/", "skills/", ".github/", "install.sh"]
 
 # The installed binary is `skt`.
 [[bin]]

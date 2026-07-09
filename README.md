@@ -1,7 +1,7 @@
 # Skatteetaten CLI
 
 <p align="center">
-  <img src="docs/banner.png" alt="A person at a laptop and an AI agent reviewing a tax return together, with a magnifying glass, a checkmarked form and kroner coins" width="640">
+  <img src="https://raw.githubusercontent.com/magnusrodseth/skatteetaten-cli/main/docs/banner.png" alt="A person at a laptop and an AI agent reviewing a tax return together, with a magnifying glass, a checkmarked form and kroner coins" width="640">
 </p>
 
 **Your tax data, agent-ready.** `skt` is a **read-only** CLI that reads **your
