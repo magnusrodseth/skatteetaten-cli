@@ -45,6 +45,27 @@ pub enum Command {
 
     /// Show your skatteoppgjør / Min skatt landing (restskatt, konto, KID).
     Oppgjor,
+
+    /// What-if: recompute your tax with one skattekort field changed. Pure
+    /// calculation against the portal — persists nothing.
+    Whatif(WhatifArgs),
+}
+
+#[derive(Debug, Args)]
+pub struct WhatifArgs {
+    /// Skattekort field to change, e.g. `pensjonsinnbetaling`,
+    /// `paaloepteRenterGenerell`, `innskudd`. Run `skt skattekort` to see the
+    /// available field names (the rightmost "Felt" column).
+    #[arg(long)]
+    pub field: String,
+
+    /// Set the field's total to this absolute amount (NOK).
+    #[arg(long, conflicts_with = "add", required_unless_present = "add")]
+    pub set: Option<f64>,
+
+    /// Add this (possibly negative) delta to the field's current amount (NOK).
+    #[arg(long, allow_hyphen_values = true)]
+    pub add: Option<f64>,
 }
 
 #[derive(Debug, Args)]

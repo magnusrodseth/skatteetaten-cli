@@ -43,5 +43,6 @@ pub fn run(cli: Cli) -> anyhow::Result<()> {
         Command::Skattekort => read::skattekort(mode, mask),
         Command::Skattemelding(args) => read::skattemelding(args, mode, mask),
         Command::Oppgjor => read::oppgjor(mode),
+        Command::Whatif(args) => read::whatif(args, mode, mask),
     }
 }

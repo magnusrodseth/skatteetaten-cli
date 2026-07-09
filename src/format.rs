@@ -102,3 +102,34 @@ pub fn skattemelding_table(v: &SkattemeldingVisningsdata, mask: bool) {
         println!("{table}");
     }
 }
+
+/// Render a what-if result: the changed field, and tax before vs after.
+pub fn whatif_table(
+    field: &str,
+    field_before: Option<f64>,
+    field_after: f64,
+    tax_before: Option<f64>,
+    tax_after: Option<f64>,
+    mask: bool,
+) {
+    let mut table = base_table();
+    table.set_header(vec!["", "Før", "Etter", "Endring"]);
+    let row = |label: &str, before: Option<f64>, after: Option<f64>| {
+        let delta = match (before, after) {
+            (Some(b), Some(a)) => kr(a - b, mask),
+            _ => "-".to_string(),
+        };
+        vec![
+            Cell::new(label),
+            Cell::new(before.map(|b| kr(b, mask)).unwrap_or_else(|| "-".into()))
+                .set_alignment(CellAlignment::Right),
+            Cell::new(after.map(|a| kr(a, mask)).unwrap_or_else(|| "-".into()))
+                .set_alignment(CellAlignment::Right),
+            Cell::new(delta).set_alignment(CellAlignment::Right),
+        ]
+    };
+    table.add_row(row(field, field_before, Some(field_after)));
+    table.add_row(row("Sum skatt", tax_before, tax_after));
+    println!("What-if (nothing was saved):");
+    println!("{table}");
+}
