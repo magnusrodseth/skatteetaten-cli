@@ -113,8 +113,9 @@ impl ApiClient {
     }
 
     /// `POST /api/skattekort/visningsdata/beregn/v2`: a pure what-if calculation.
-    /// The body is the current `visningsdata/v2` response with one field changed;
-    /// the response echoes a recomputed `beregnetSkatt`. Persists nothing.
+    /// The body is the bare `visningsdata` object (not the whole envelope) with
+    /// one field changed; the response carries a recomputed `beregnetSkatt` at
+    /// its root. Persists nothing. (Contract verified live 2026-07-09.)
     pub fn beregn(&self, body: &serde_json::Value) -> Result<serde_json::Value> {
         self.post_json(&url_skattekort_beregn(), body)
     }

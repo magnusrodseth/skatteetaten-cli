@@ -70,17 +70,22 @@ pub fn whatif(args: WhatifArgs, mode: OutputMode, mask: bool) -> anyhow::Result<
     let client = crate::commands::authed_client()?;
 
     // Fetch the current skattekort, note the current tax, mutate one field, and
-    // ask the portal to recompute. Nothing is persisted.
+    // ask the portal to recompute. Nothing is persisted. The `beregn` endpoint
+    // takes the bare `visningsdata` object (not the whole envelope) and returns a
+    // recomputed `beregnetSkatt` at the response root.
     let mut body = client.skattekort_raw().context("fetching skattekort")?;
-    let visningsdata = body
-        .get_mut("visningsdata")
-        .ok_or_else(|| anyhow!("unexpected skattekort response (no visningsdata)"))?;
+    if body.get("visningsdata").is_none() {
+        return Err(anyhow!("unexpected skattekort response (no visningsdata)"));
+    }
 
-    let before_tax = whatif::sum_skatt(visningsdata);
-    let old_total = whatif::field_total(visningsdata, &args.field);
-    let new_total = whatif::apply_change(visningsdata, &args.field, op).map_err(|e| anyhow!(e))?;
+    let before_tax = whatif::sum_skatt(&body["visningsdata"]);
+    let old_total = whatif::field_total(&body["visningsdata"], &args.field);
+    let new_total =
+        whatif::apply_change(&mut body["visningsdata"], &args.field, op).map_err(|e| anyhow!(e))?;
 
-    let recomputed = client.beregn(&body).context("recomputing tax (beregn)")?;
+    let recomputed = client
+        .beregn(&body["visningsdata"])
+        .context("recomputing tax (beregn)")?;
     let after_tax = whatif::sum_skatt(&recomputed);
 
     if mode == OutputMode::Json {
