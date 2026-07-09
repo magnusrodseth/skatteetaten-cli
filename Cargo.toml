@@ -1,0 +1,56 @@
+[package]
+name = "skatteetaten-cli"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.80"
+description = "Unofficial, read-only CLI for a private person's own Norwegian tax data from Skatteetaten's Min skatt portal (skattekort, skattemelding, skatteoppgjør). BankID login, JSON output for AI agents."
+license = "MIT"
+repository = "https://github.com/magnusrodseth/skatteetaten-cli"
+readme = "README.md"
+keywords = ["skatteetaten", "skattemelding", "cli", "bankid", "norway"]
+categories = ["command-line-utilities"]
+
+# The installed binary is `skt`.
+[[bin]]
+name = "skt"
+path = "src/main.rs"
+
+[dependencies]
+clap = { version = "4.5", features = ["derive", "env", "wrap_help"] }
+reqwest = { version = "0.12", default-features = false, features = ["blocking", "json", "rustls-tls"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+anyhow = "1"
+thiserror = "2"
+url = "2"
+chrono = { version = "0.4", default-features = false, features = ["clock", "std"] }
+comfy-table = "7"
+dirs = "5"
+
+# Interactive BankID login runs in a real, headful Chrome driven over the Chrome
+# DevTools Protocol; afterwards we read the (HttpOnly) session cookies via CDP.
+# This is the only way for a private person: Min skatt authenticates with a
+# first-party HttpOnly cookie, not a bearer token we could mint ourselves.
+# Local CDP talks to Chrome over ws://localhost, so no TLS backend is needed and
+# we skip the fetcher (we launch the system Chrome, not a downloaded one).
+chromiumoxide = "0.9"
+tokio = { version = "1", features = ["rt-multi-thread", "macros", "time"] }
+futures = "0.3"
+
+# Keyring backend is platform-specific so the build needs no system libraries:
+# macOS uses the native Keychain; Linux uses the kernel keyutils (no libdbus);
+# Windows uses the Credential Manager. The `keychain` SKT_STORE option maps to
+# whichever of these is native to the platform.
+[target.'cfg(target_os = "macos")'.dependencies]
+keyring = { version = "3", features = ["apple-native"] }
+
+[target.'cfg(target_os = "linux")'.dependencies]
+keyring = { version = "3", features = ["linux-native"] }
+
+[target.'cfg(windows)'.dependencies]
+keyring = { version = "3", features = ["windows-native"] }
+
+[profile.release]
+strip = true
+lto = true
+codegen-units = 1

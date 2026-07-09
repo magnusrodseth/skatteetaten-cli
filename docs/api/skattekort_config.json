@@ -1,0 +1,13 @@
+{
+  "features": {
+    "chatbot_url": "https://509skatteetaten.boost.ai",
+    "ventetid": "15",
+    "forskuddsskatt_varsel_slutt_dag": "1",
+    "sofie_merknad_slutttid": "2024-01-06T00:00",
+    "inntekstaar": "2026",
+    "forskuddsskatt_varsel_slutt_mnd": "3",
+    "sofie_merknad_starttid": "2024-01-03T00:00",
+    "forskuddsskatt_varsel_start_dag": "1",
+    "forskuddsskatt_varsel_start_mnd": "12"
+  }
+}

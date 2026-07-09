@@ -1,0 +1,427 @@
+{
+  "dokumentStatus": "SKATTEMELDING_EGENFASTSATT",
+  "vedlegg": [],
+  "enk": false,
+  "visningsdata": {
+    "aksjeIAksjonaerregisteret": [
+      {
+        "aksjeklasse": "ordinaer",
+        "antallAksjer": "200",
+        "id": "7056f2db98ad6afbccf50fbbeb461e4a7ca209ce",
+        "selskapetsNavn": "SCRUBBED",
+        "selskapetsOrganisasjonsnummer": "SCRUBBED",
+        "verdiFoerVerdsettingsrabattForAksje": {
+          "beloep": "12345",
+          "beloepIValuta": "12345",
+          "valutakode": "NOK",
+          "valutakurs": "1"
+        }
+      },
+      {
+        "aksjeklasse": "ordinaer",
+        "antallAksjer": "30",
+        "id": "45dbb360c299971883531c62fd50f041e5ed10b7",
+        "selskapetsNavn": "SCRUBBED",
+        "selskapetsOrganisasjonsnummer": "SCRUBBED",
+        "verdiFoerVerdsettingsrabattForAksje": {
+          "beloep": "12345",
+          "beloepIValuta": "12345",
+          "valutakode": "NOK",
+          "valutakurs": "1"
+        }
+      }
+    ],
+    "aksjesparekonto": [
+      {
+        "finansinstitusjonensNavn": "SCRUBBED",
+        "finansinstitusjonensOrganisasjonsnummer": "SCRUBBED",
+        "id": "8eeada1960a65c47bbd6735a61a04aa88d8b3834",
+        "kontoErAvsluttet": "false",
+        "kontonummer": "SCRUBBED"
+      },
+      {
+        "finansinstitusjonensNavn": "SCRUBBED",
+        "finansinstitusjonensOrganisasjonsnummer": "SCRUBBED",
+        "finansprodukt": [
+          {
+            "antall": "133.77",
+            "finansproduktetsNavn": "SCRUBBED",
+            "id": "d55605791824a7caa0ae51436a3dceec13da5ab1",
+            "isinnummer": "SCRUBBED"
+          }
+        ],
+        "formuesverdiForKontanter": {
+          "beloep": "12345",
+          "beloepIValuta": "12345",
+          "valutakode": "NOK",
+          "valutakurs": "1"
+        },
+        "id": "b2211927e4e482c22e602de0f0e9f7ebe6c03c70",
+        "kontoErAvsluttet": "false",
+        "kontonummer": "SCRUBBED",
+        "verdiFoerVerdsettingsrabattForAksjedel": {
+          "beloep": "12345",
+          "beloepIValuta": "12345",
+          "valutakode": "NOK",
+          "valutakurs": "1"
+        }
+      }
+    ],
+    "arbeidsgiver": [
+      {
+        "id": "5559deb6a8b61f81a8d1549b6d4b14e2c5a29932",
+        "organisasjonsnavn": "SCRUBBED",
+        "organisasjonsnummer": "SCRUBBED",
+        "samledeYtelserFraArbeidsgiverPerBehandlingsart": [
+          {
+            "antall": "183",
+            "behandlingsart": "LONN",
+            "beloep": {
+              "beloep": "12345",
+              "beloepIValuta": "12345",
+              "valutakode": "NOK",
+              "valutakurs": "1"
+            },
+            "id": "d41f3851392654727d66859f23ff3e6c76b4a69f"
+          }
+        ]
+      },
+      {
+        "id": "49f707e876dea9fb2b8a630d6e78b52223829efe",
+        "organisasjonsnavn": "SCRUBBED",
+        "organisasjonsnummer": "SCRUBBED",
+        "samledeYtelserFraArbeidsgiverPerBehandlingsart": [
+          {
+            "behandlingsart": "LONN",
+            "beloep": {
+              "beloep": "12345",
+              "beloepIValuta": "12345",
+              "valutakode": "NOK",
+              "valutakurs": "1"
+            },
+            "id": "a6a22a9c1ae6ccfc421c7c4de818736e81ad4907"
+          },
+          {
+            "behandlingsart": "SKPL_FORSIKRING",
+            "beloep": {
+              "beloep": "12345",
+              "beloepIValuta": "12345",
+              "valutakode": "NOK",
+              "valutakurs": "1"
+            },
+            "id": "c95b3ec33784907cfa67df7c1339425d0dd13597"
+          }
+        ]
+      },
+      {
+        "id": "d29e7dbdc3fe1e1f6c0e878c98cc78688c1b9a20",
+        "organisasjonsnavn": "SCRUBBED",
+        "organisasjonsnummer": "SCRUBBED",
+        "samledeYtelserFraArbeidsgiverPerBehandlingsart": [
+          {
+            "antall": "240",
+            "behandlingsart": "LONN",
+            "beloep": {
+              "beloep": "12345",
+              "beloepIValuta": "12345",
+              "valutakode": "NOK",
+              "valutakurs": "1"
+            },
+            "id": "09a28a9e0501afd00ced46dfce71a7f8ea25bf97"
+          }
+        ]
+      }
+    ],
+    "boligsparingForUngdomINorge": [
+      {
+        "beregnetSparebeloepTilBoligsparingForUngdomISkattleggingsperiodenBeloepUtenHensynTilValgtPrioritertFradragstype": {
+          "beloep": "12345"
+        },
+        "beregnetSparebeloepTilBoligsparingForUngdomISkattleggingsperiodenFradragsberettigetBeloep": {
+          "beloep": "12345"
+        },
+        "id": "fixed",
+        "samletSparebeloepTilBoligsparingISkattleggingsperioden": {
+          "beloep": "12345"
+        }
+      }
+    ],
+    "fagforening": [
+      {
+        "id": "fixed",
+        "inntektsfradragForFagforeningskontingentBeloepUtenHensynTilValgtPrioritertFradragstype": {
+          "beloep": "12345"
+        },
+        "inntektsfradragForFagforeningskontingentFradragsberettigetBeloep": {
+          "beloep": "12345"
+        },
+        "samletBetaltFagforeningskontingentPrAar": {
+          "beloep": "12345",
+          "beloepIValuta": "12345",
+          "valutakode": "NOK",
+          "valutakurs": "1"
+        }
+      }
+    ],
+    "inntektsaar": "2024",
+    "konto": [
+      {
+        "andelAvInnskudd": {
+          "beloep": "12345"
+        },
+        "andelAvOpptjenteRenter": {
+          "beloep": "12345"
+        },
+        "bankensNavn": "SCRUBBED",
+        "id": "33a1192b582be6d9c9c347747381a7d62007225d",
+        "innskudd": {
+          "beloep": "12345",
+          "beloepIValuta": "12345",
+          "valutakode": "NOK",
+          "valutakurs": "1"
+        },
+        "kontonummer": "SCRUBBED",
+        "opptjenteRenter": {
+          "beloep": "12345",
+          "beloepIValuta": "12345",
+          "valutakode": "NOK",
+          "valutakurs": "1"
+        },
+        "organisasjonsnummer": "SCRUBBED"
+      },
+      {
+        "andelAvInnskudd": {
+          "beloep": "12345"
+        },
+        "bankensNavn": "SCRUBBED",
+        "id": "8e370ab68b366a2870da78008da01a25251c0866",
+        "innskudd": {
+          "beloep": "12345",
+          "beloepIValuta": "12345",
+          "valutakode": "NOK",
+          "valutakurs": "1"
+        },
+        "kontonummer": "SCRUBBED",
+        "organisasjonsnummer": "SCRUBBED"
+      },
+      {
+        "andelAvInnskudd": {
+          "beloep": "12345"
+        },
+        "andelAvOpptjenteRenter": {
+          "beloep": "12345"
+        },
+        "bankensNavn": "SCRUBBED",
+        "id": "42bae295fad1717931cec695aa767f2184ece819",
+        "innskudd": {
+          "beloep": "12345",
+          "beloepIValuta": "12345",
+          "valutakode": "NOK",
+          "valutakurs": "1"
+        },
+        "kontonummer": "SCRUBBED",
+        "opptjenteRenter": {
+          "beloep": "12345",
+          "beloepIValuta": "12345",
+          "valutakode": "NOK",
+          "valutakurs": "1"
+        },
+        "organisasjonsnummer": "SCRUBBED"
+      },
+      {
+        "andelAvInnskudd": {
+          "beloep": "12345"
+        },
+        "andelAvOpptjenteRenter": {
+          "beloep": "12345"
+        },
+        "bankensNavn": "SCRUBBED",
+        "id": "950bb894ea7274b6168fb63f51d79cb2ad424de1",
+        "innskudd": {
+          "beloep": "12345",
+          "beloepIValuta": "12345",
+          "valutakode": "NOK",
+          "valutakurs": "1"
+        },
+        "kontonummer": "SCRUBBED",
+        "opptjenteRenter": {
+          "beloep": "12345",
+          "beloepIValuta": "12345",
+          "valutakode": "NOK",
+          "valutakurs": "1"
+        },
+        "organisasjonsnummer": "SCRUBBED"
+      },
+      {
+        "andelAvInnskudd": {
+          "beloep": "12345"
+        },
+        "bankensNavn": "SCRUBBED",
+        "id": "c698f0764494ef6ec260db446f6a8b630878b069",
+        "innskudd": {
+          "beloep": "12345",
+          "beloepIValuta": "12345",
+          "valutakode": "NOK",
+          "valutakurs": "1"
+        },
+        "kontonummer": "SCRUBBED",
+        "organisasjonsnummer": "SCRUBBED"
+      },
+      {
+        "andelAvInnskudd": {
+          "beloep": "12345"
+        },
+        "bankensNavn": "SCRUBBED",
+        "id": "a501a9ff21221cda2f2ac4156f8ac4ede9913de3",
+        "innskudd": {
+          "beloep": "12345",
+          "beloepIValuta": "12345",
+          "valutakode": "NOK",
+          "valutakurs": "1"
+        },
+        "kontonummer": "SCRUBBED",
+        "organisasjonsnummer": "SCRUBBED"
+      },
+      {
+        "andelAvPaaloepteRenter": {
+          "beloep": "12345"
+        },
+        "bankensNavn": "SCRUBBED",
+        "id": "ad081409c6a786f900c856813807db2f3b4b894e",
+        "kontonummer": "SCRUBBED",
+        "organisasjonsnummer": "SCRUBBED",
+        "paaloepteRenter": {
+          "beloep": "12345"
+        },
+        "paaloepteRenterBeloepUtenHensynTilValgtPrioritertFradragstype": {
+          "beloep": "12345",
+          "beloepIValuta": "12345",
+          "valutakode": "NOK",
+          "valutakurs": "1"
+        },
+        "prosentandelAvGjeldInnskuddOgRente": "12345"
+      },
+      {
+        "andelAvInnskudd": {
+          "beloep": "12345"
+        },
+        "andelAvOpptjenteRenter": {
+          "beloep": "12345"
+        },
+        "bankensNavn": "SCRUBBED",
+        "id": "75a03088c055873a22734fdecd9451ab2270ba0d",
+        "innskudd": {
+          "beloep": "12345",
+          "beloepIValuta": "12345",
+          "valutakode": "NOK",
+          "valutakurs": "1"
+        },
+        "kontonummer": "SCRUBBED",
+        "opptjenteRenter": {
+          "beloep": "12345",
+          "beloepIValuta": "12345",
+          "valutakode": "NOK",
+          "valutakurs": "1"
+        },
+        "organisasjonsnummer": "SCRUBBED"
+      },
+      {
+        "andelAvInnskudd": {
+          "beloep": "12345"
+        },
+        "bankensNavn": "SCRUBBED",
+        "id": "8cb55c7afb894ce9d36da00c4ad47b72beada9de",
+        "innskudd": {
+          "beloep": "12345",
+          "beloepIValuta": "12345",
+          "valutakode": "NOK",
+          "valutakurs": "1"
+        },
+        "kontonummer": "SCRUBBED",
+        "organisasjonsnummer": "SCRUBBED"
+      },
+      {
+        "andelAvInnskudd": {
+          "beloep": "12345"
+        },
+        "andelAvOpptjenteRenter": {
+          "beloep": "12345"
+        },
+        "bankensNavn": "SCRUBBED",
+        "id": "c5e37263bcb478426d9adfaa5d8aad1a4c0a9b4b",
+        "innskudd": {
+          "beloep": "12345",
+          "beloepIValuta": "12345",
+          "valutakode": "NOK",
+          "valutakurs": "1"
+        },
+        "kontonummer": "SCRUBBED",
+        "opptjenteRenter": {
+          "beloep": "12345",
+          "beloepIValuta": "12345",
+          "valutakode": "NOK",
+          "valutakurs": "1"
+        },
+        "organisasjonsnummer": "SCRUBBED"
+      },
+      {
+        "andelAvGjeld": {
+          "beloep": "12345"
+        },
+        "bankensNavn": "SCRUBBED",
+        "gjeld": {
+          "beloep": "12345",
+          "beloepIValuta": "12345",
+          "valutakode": "NOK",
+          "valutakurs": "1"
+        },
+        "id": "6c5154a13acc3b77aba070c8d9cef72ee1fa0f46",
+        "kontonummer": "SCRUBBED",
+        "organisasjonsnummer": "SCRUBBED",
+        "prosentandelAvGjeldInnskuddOgRente": "12345"
+      }
+    ],
+    "minstefradragOgKostnaderKnyttetTilArbeidOgAnnenInntekt": [
+      {
+        "id": "MINSTEFRADRAG_OG_KOSTNADER_KNYTTET_TIL_ARBEID_OG_ANNEN_INNTEKT",
+        "minstefradragIInntekt": {
+          "beloep": "12345"
+        },
+        "minstefradragIInntektBeloepUtenHensynTilValgtPrioritertFradragstype": {
+          "beloep": "12345"
+        }
+      }
+    ],
+    "partsnummer": "SCRUBBED",
+    "sistEndret": "2025-03-20T10:30:35.121Z",
+    "endringsNoekkel": "6E6D81E595B26D837BA0DE24E9A92213",
+    "visningsdataEndret": 1742466635121,
+    "sistInnsendt": "2025-03-20T10:30:40.715Z",
+    "sistInnsendtAv": "SCRUBBED"
+  },
+  "temametavisningsdata": {},
+  "erSignertAvRevisor": false,
+  "harTolvdeler": false,
+  "endringslogg": {},
+  "endringsloggFeil": false,
+  "tilstand": {
+    "harLovTilAaSendeInn": false,
+    "harLovTilAaRedigere": true,
+    "erSkattBeregnetAvSaksbehandler": false,
+    "harTilhoerendeBrev": false,
+    "innsendingmodus": "ORDINAER_INNSENDING"
+  },
+  "kildeskattPaaLoennStatus": "NORMAL_SKATTEYTER",
+  "skjulteKontroller": {},
+  "naering": {
+    "harInnsendtNaeringsspesifikasjonFraSBS": false,
+    "harInnsendtNaeringsspesifikasjonFraSMIA": false,
+    "harEndringerINsp": false,
+    "harNaeringsspesifikasjon": false
+  },
+  "metavisningsdata": {
+    "inntektsaar": "2024",
+    "partsnummer": "SCRUBBED",
+    "sistEndret": "2025-03-20T10:30:35.121Z"
+  }
+}

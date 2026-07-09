@@ -1,0 +1,1103 @@
+{
+  "visningsdata": {
+    "beregnetSkatt": {
+      "fellesskatt": {
+        "beloep": 12345,
+        "forekomstId": "6a19e1d8-40e3-4a2c-8585-6f13a3b7e116",
+        "grunnlag": 12345,
+        "metaData": {
+          "kortgruppeForekomstId": "6a19e1d8-40e3-4a2c-8585-6f13a3b7e116"
+        }
+      },
+      "forekomstId": "892ceedf-756f-47fe-8d42-7df220e7da4b",
+      "formuesskatt": {
+        "forekomstId": "9eb858fe-afab-4544-9ac8-3881bfc98ea5",
+        "grunnlag": 12345,
+        "metaData": {
+          "kortgruppeForekomstId": "9eb858fe-afab-4544-9ac8-3881bfc98ea5"
+        }
+      },
+      "formuesskattTilKommune": {
+        "beloep": 12345,
+        "forekomstId": "89c3ae7e-19a2-4a19-ab9d-682bbc1ed37c",
+        "metaData": {
+          "kortgruppeForekomstId": "89c3ae7e-19a2-4a19-ab9d-682bbc1ed37c"
+        }
+      },
+      "formuesskattTilStat": {
+        "beloep": 12345,
+        "forekomstId": "0b9a68b8-a399-4163-8fde-d3e275204589",
+        "grunnlag": 12345,
+        "metaData": {
+          "kortgruppeForekomstId": "0b9a68b8-a399-4163-8fde-d3e275204589"
+        }
+      },
+      "forskuddsskattForrigeAar": {
+        "beloep": 12345,
+        "forekomstId": "77f99ce4-c148-4cc4-b01a-d5c762b6286d",
+        "metaData": {
+          "kortgruppeForekomstId": "77f99ce4-c148-4cc4-b01a-d5c762b6286d"
+        }
+      },
+      "inntektsskattTilFylkesKommune": {
+        "beloep": 12345,
+        "forekomstId": "6725c050-e455-4e4e-9830-c21b852c03a9",
+        "metaData": {
+          "kortgruppeForekomstId": "6725c050-e455-4e4e-9830-c21b852c03a9"
+        }
+      },
+      "inntektsskattTilKommune": {
+        "beloep": 12345,
+        "forekomstId": "7828f10d-76f7-4707-9b1a-26e918ff237f",
+        "metaData": {
+          "kortgruppeForekomstId": "7828f10d-76f7-4707-9b1a-26e918ff237f"
+        }
+      },
+      "kommuneFylkesOgFellesskatt": {
+        "beloep": 12345,
+        "forekomstId": "3633447e-b212-4179-b56f-ad8c353115c1",
+        "grunnlag": 12345,
+        "metaData": {
+          "kortgruppeForekomstId": "3633447e-b212-4179-b56f-ad8c353115c1"
+        }
+      },
+      "metaData": {
+        "kortgruppeForekomstId": "892ceedf-756f-47fe-8d42-7df220e7da4b"
+      },
+      "sumSkatt": {
+        "beloep": 12345,
+        "forekomstId": "2c46a26e-9c4f-45f1-8a97-9110755876b5",
+        "metaData": {
+          "kortgruppeForekomstId": "2c46a26e-9c4f-45f1-8a97-9110755876b5"
+        }
+      },
+      "totaltBeregnet": {
+        "beloep": 12345,
+        "forekomstId": "eafee2bd-5f5a-4619-9936-86298bfecacc",
+        "metaData": {
+          "kortgruppeForekomstId": "eafee2bd-5f5a-4619-9936-86298bfecacc"
+        }
+      },
+      "trinnskatt": {
+        "beloep": 12345,
+        "forekomstId": "5c5ec471-835d-4acf-9470-0e1ddca0ef4a",
+        "grunnlag": 12345,
+        "metaData": {
+          "kortgruppeForekomstId": "5c5ec471-835d-4acf-9470-0e1ddca0ef4a"
+        }
+      },
+      "trygdeavgiftAvLoennsinntekt": {
+        "beloep": 12345,
+        "forekomstId": "78727aec-6dac-4c7c-a8c9-3ccf81208063",
+        "grunnlag": 12345,
+        "metaData": {
+          "kortgruppeForekomstId": "78727aec-6dac-4c7c-a8c9-3ccf81208063"
+        }
+      },
+      "trygdeavgiftMellomSats": {
+        "beloep": 12345,
+        "forekomstId": "7ff3bb98-8dbb-4efc-a972-a9f155e1214c",
+        "grunnlag": 12345,
+        "metaData": {
+          "kortgruppeForekomstId": "7ff3bb98-8dbb-4efc-a972-a9f155e1214c"
+        }
+      }
+    },
+    "skattekort": {
+      "beregnetSkatt": {
+        "fellesskatt": {
+          "beloep": 12345,
+          "forekomstId": "6a19e1d8-40e3-4a2c-8585-6f13a3b7e116",
+          "grunnlag": 12345,
+          "metaData": {
+            "kortgruppeForekomstId": "6a19e1d8-40e3-4a2c-8585-6f13a3b7e116"
+          }
+        },
+        "forekomstId": "892ceedf-756f-47fe-8d42-7df220e7da4b",
+        "formuesskatt": {
+          "forekomstId": "9eb858fe-afab-4544-9ac8-3881bfc98ea5",
+          "grunnlag": 12345,
+          "metaData": {
+            "kortgruppeForekomstId": "9eb858fe-afab-4544-9ac8-3881bfc98ea5"
+          }
+        },
+        "formuesskattTilKommune": {
+          "beloep": 12345,
+          "forekomstId": "89c3ae7e-19a2-4a19-ab9d-682bbc1ed37c",
+          "metaData": {
+            "kortgruppeForekomstId": "89c3ae7e-19a2-4a19-ab9d-682bbc1ed37c"
+          }
+        },
+        "formuesskattTilStat": {
+          "beloep": 12345,
+          "forekomstId": "0b9a68b8-a399-4163-8fde-d3e275204589",
+          "grunnlag": 12345,
+          "metaData": {
+            "kortgruppeForekomstId": "0b9a68b8-a399-4163-8fde-d3e275204589"
+          }
+        },
+        "forskuddsskattForrigeAar": {
+          "beloep": 12345,
+          "forekomstId": "77f99ce4-c148-4cc4-b01a-d5c762b6286d",
+          "metaData": {
+            "kortgruppeForekomstId": "77f99ce4-c148-4cc4-b01a-d5c762b6286d"
+          }
+        },
+        "inntektsskattTilFylkesKommune": {
+          "beloep": 12345,
+          "forekomstId": "6725c050-e455-4e4e-9830-c21b852c03a9",
+          "metaData": {
+            "kortgruppeForekomstId": "6725c050-e455-4e4e-9830-c21b852c03a9"
+          }
+        },
+        "inntektsskattTilKommune": {
+          "beloep": 12345,
+          "forekomstId": "7828f10d-76f7-4707-9b1a-26e918ff237f",
+          "metaData": {
+            "kortgruppeForekomstId": "7828f10d-76f7-4707-9b1a-26e918ff237f"
+          }
+        },
+        "kommuneFylkesOgFellesskatt": {
+          "beloep": 12345,
+          "forekomstId": "3633447e-b212-4179-b56f-ad8c353115c1",
+          "grunnlag": 12345,
+          "metaData": {
+            "kortgruppeForekomstId": "3633447e-b212-4179-b56f-ad8c353115c1"
+          }
+        },
+        "metaData": {
+          "kortgruppeForekomstId": "892ceedf-756f-47fe-8d42-7df220e7da4b"
+        },
+        "sumSkatt": {
+          "beloep": 12345,
+          "forekomstId": "2c46a26e-9c4f-45f1-8a97-9110755876b5",
+          "metaData": {
+            "kortgruppeForekomstId": "2c46a26e-9c4f-45f1-8a97-9110755876b5"
+          }
+        },
+        "totaltBeregnet": {
+          "beloep": 12345,
+          "forekomstId": "eafee2bd-5f5a-4619-9936-86298bfecacc",
+          "metaData": {
+            "kortgruppeForekomstId": "eafee2bd-5f5a-4619-9936-86298bfecacc"
+          }
+        },
+        "trinnskatt": {
+          "beloep": 12345,
+          "forekomstId": "5c5ec471-835d-4acf-9470-0e1ddca0ef4a",
+          "grunnlag": 12345,
+          "metaData": {
+            "kortgruppeForekomstId": "5c5ec471-835d-4acf-9470-0e1ddca0ef4a"
+          }
+        },
+        "trygdeavgiftAvLoennsinntekt": {
+          "beloep": 12345,
+          "forekomstId": "78727aec-6dac-4c7c-a8c9-3ccf81208063",
+          "grunnlag": 12345,
+          "metaData": {
+            "kortgruppeForekomstId": "78727aec-6dac-4c7c-a8c9-3ccf81208063"
+          }
+        },
+        "trygdeavgiftMellomSats": {
+          "beloep": 12345,
+          "forekomstId": "7ff3bb98-8dbb-4efc-a972-a9f155e1214c",
+          "grunnlag": 12345,
+          "metaData": {
+            "kortgruppeForekomstId": "7ff3bb98-8dbb-4efc-a972-a9f155e1214c"
+          }
+        }
+      },
+      "beregningOevrigeResultater": {
+        "beregnetForskuddsskattFraEnkeltpersonforetak": 12345,
+        "forekomstId": "95550e88-57dc-4863-92bd-17881151afce",
+        "gjenvaerendeEffektivtTrekkgrunnlag": 12345,
+        "metaData": {
+          "kortgruppeForekomstId": "95550e88-57dc-4863-92bd-17881151afce"
+        }
+      },
+      "forekomstId": "0aea2ecb-8de7-41d8-967b-ee279093e307",
+      "forskuddstrekk": [
+        {
+          "antallMaanederForTrekk": 12345,
+          "forekomstId": "2297eaa7-801f-44a5-b7c6-ed506bb08b88",
+          "metaData": {
+            "kortgruppeForekomstId": "2297eaa7-801f-44a5-b7c6-ed506bb08b88"
+          },
+          "tabellType": "TREKKTABELL_FOR_LOENN",
+          "tabellnummer": "SCRUBBED",
+          "trekkode": "LOENN_FRA_HOVEDARBEIDSGIVER",
+          "trekkprosent": 12345,
+          "type": "TABELL",
+          "visningsverdi": "12345"
+        },
+        {
+          "forekomstId": "17ad7eae-701a-4c7d-902f-e9b701f2d9b8",
+          "metaData": {
+            "kortgruppeForekomstId": "17ad7eae-701a-4c7d-902f-e9b701f2d9b8"
+          },
+          "trekkode": "LOENN_FRA_BIARBEIDSGIVER",
+          "trekkprosent": 12345,
+          "type": "PROSENT",
+          "visningsverdi": "12345"
+        },
+        {
+          "forekomstId": "49aefebd-25e3-42c4-8397-bd1ddb586fd3",
+          "metaData": {
+            "kortgruppeForekomstId": "49aefebd-25e3-42c4-8397-bd1ddb586fd3"
+          },
+          "trekkode": "LOENN_FRA_NAV",
+          "trekkprosent": 12345,
+          "type": "PROSENT",
+          "visningsverdi": "12345"
+        },
+        {
+          "forekomstId": "53f9753a-61be-4173-9c39-6099ee8bd058",
+          "metaData": {
+            "kortgruppeForekomstId": "53f9753a-61be-4173-9c39-6099ee8bd058"
+          },
+          "trekkode": "UFOERETRYGD_FRA_NAV",
+          "trekkprosent": 12345,
+          "type": "PROSENT",
+          "visningsverdi": "12345"
+        },
+        {
+          "forekomstId": "3196f5ca-96a0-4f55-812f-f4a8266753bc",
+          "metaData": {
+            "kortgruppeForekomstId": "3196f5ca-96a0-4f55-812f-f4a8266753bc"
+          },
+          "trekkode": "UFOEREYTELSER_FRA_ANDRE",
+          "trekkprosent": 12345,
+          "type": "PROSENT",
+          "visningsverdi": "12345"
+        }
+      ],
+      "hovedinntektTrekk": {
+        "forekomstId": "61ae15fe-168d-4660-968f-5e9438751b64",
+        "metaData": {
+          "kortgruppeForekomstId": "61ae15fe-168d-4660-968f-5e9438751b64"
+        },
+        "trekkode": "LOENN_FRA_HOVEDARBEIDSGIVER",
+        "type": "TABELL",
+        "visningsverdi": "12345"
+      },
+      "metaData": {
+        "kortgruppeForekomstId": "0aea2ecb-8de7-41d8-967b-ee279093e307"
+      }
+    },
+    "prognoseobjekt": {
+      "innskudd": [
+        {
+          "beloep": 12345,
+          "forekomstId": "9c6e6c15-7b52-4a41-8101-c51f55687995",
+          "metaData": {
+            "kortgruppeForekomstId": "0f46bf53-a9a2-4851-9227-60c44a0b0a5e"
+          }
+        }
+      ],
+      "formuesverdiForPrimaerbolig": [
+        {
+          "andelAvFormuesverdiPrEiendom": 12345,
+          "beloep": 12345,
+          "beregnetMarkedsverdiPerEiendom": 12345,
+          "boligbruk": "PRIMAERBOLIG",
+          "forekomstId": "88a05131-2dfb-4bdc-9a77-c46e617f76b6",
+          "formuesverdiForFormuesandel": 12345,
+          "identifikator": "SCRUBBED",
+          "kommune": "SCRUBBED",
+          "metaData": {
+            "kortgruppeForekomstId": "6eac1178-f14c-429c-a9bc-0765e19afcf9"
+          },
+          "verdiFoerVerdsettingsrabattForFastEiendom": 12345
+        }
+      ],
+      "betaltFagforeningskontingent": [
+        {
+          "beloep": 12345,
+          "forekomstId": "f91f95d9-16bb-442d-bc38-46b40a26dee7",
+          "metaData": {
+            "kortgruppeForekomstId": "b3be9e5a-5fe9-4298-a41f-897eb2eb5201"
+          }
+        }
+      ],
+      "verdiFoerVerdsettingsrabattForAksjedelIAksjesparekonto": [
+        {
+          "beloep": 12345,
+          "forekomstId": "fea6440e-d8d3-4f53-9d17-9c14761d984b",
+          "metaData": {
+            "kortgruppeForekomstId": "35138fba-e752-4efa-b744-ee0eb73f144d"
+          }
+        }
+      ],
+      "paaloepteRenterGenerell": [
+        {
+          "beloep": 12345,
+          "forekomstId": "3313c841-d0c3-4d8c-a345-bd10f3a07b9b",
+          "metaData": {
+            "kortgruppeForekomstId": "b3be9e5a-5fe9-4298-a41f-897eb2eb5201"
+          }
+        }
+      ],
+      "innenlandskGjeldGenerell": [
+        {
+          "beloep": 12345,
+          "forekomstId": "d84a839b-1d3e-419e-bb67-9c03af42687a",
+          "metaData": {
+            "kortgruppeForekomstId": "b3be9e5a-5fe9-4298-a41f-897eb2eb5201"
+          }
+        }
+      ],
+      "pensjonsinnbetaling": [
+        {
+          "beloep": 12345,
+          "forekomstId": "f74315af-823c-4f1b-8ab1-06710313f714",
+          "metaData": {
+            "kortgruppeForekomstId": "b3be9e5a-5fe9-4298-a41f-897eb2eb5201"
+          }
+        }
+      ],
+      "opptjenteRenter": [
+        {
+          "beloep": 12345,
+          "forekomstId": "7aa2a747-51c7-4b46-9b85-0dbf92d571d4",
+          "metaData": {
+            "kortgruppeForekomstId": "0f46bf53-a9a2-4851-9227-60c44a0b0a5e"
+          }
+        }
+      ],
+      "inntektsfradragForFagforeningskontingent": [
+        {
+          "beloep": 12345,
+          "forekomstId": "f8c424d9-951a-4387-a9af-485770b23e48",
+          "metaData": {
+            "kortgruppeForekomstId": "b3be9e5a-5fe9-4298-a41f-897eb2eb5201"
+          }
+        }
+      ],
+      "loennsinntektMedTrygdeavgiftspliktOgMedTrekkpliktGenerell": [
+        {
+          "beloep": 12345,
+          "forekomstId": "885c3886-c3fc-4e54-b419-004b3506ce51",
+          "metaData": {
+            "kortgruppeForekomstId": "b3be9e5a-5fe9-4298-a41f-897eb2eb5201"
+          }
+        }
+      ]
+    },
+    "hittilIAar": {
+      "beregnesFraMaaned": 7,
+      "forekomstId": "6d8272d1-93df-4397-80a9-2cf25854b7c5",
+      "harFlereAribeidsgivere": false,
+      "innbetaltForskuddsskatt": 12345,
+      "metaData": {
+        "kortgruppeForekomstId": "6d8272d1-93df-4397-80a9-2cf25854b7c5"
+      },
+      "trukketForskuddstrekk": 12345,
+      "utbetaltLoennOgTrygd": 457932
+    },
+    "skatteplikt": {
+      "alder": 26,
+      "deltakerkategoriIForsoeksordningMedArbeidsfradragForUnge": "skalIkkeHaFradragMenErInformert",
+      "forekomstId": "5ad9e42f-cac5-4be7-a29d-a9e52c55e0d8",
+      "historiskSaerskiltSkatteplikt": [],
+      "kommune": "SCRUBBED",
+      "metaData": {
+        "kortgruppeForekomstId": "5ad9e42f-cac5-4be7-a29d-a9e52c55e0d8"
+      },
+      "saerskiltSkatteplikt": [],
+      "skattepliktigTilNorge": true,
+      "skattepliktigTilSvalbard": false,
+      "statusPaaDeltakerIForsoeksordningMedArbeidsfradragForUnge": "skalIkkeFaaFradragMenErInformert"
+    },
+    "avvik": [],
+    "lister": {},
+    "hovedkjoering": {
+      "forekomstId": "27140e12-e612-4f30-9076-7341e6261109",
+      "harAlderspensjon": false,
+      "metaData": {
+        "kortgruppeForekomstId": "27140e12-e612-4f30-9076-7341e6261109"
+      }
+    },
+    "summertSkattegrunnlagForVisning": {},
+    "arbeidsreise": {
+      "forekomstId": "7f86ecbc-d892-44e5-976c-f6df876d848a",
+      "metaData": {
+        "kortgruppeForekomstId": "7f86ecbc-d892-44e5-976c-f6df876d848a"
+      }
+    },
+    "virksomheter": [],
+    "historikk": {
+      "beregnetForskuddOpprettet": "2026-03-19T14:24:49.082",
+      "fjoraaretsBeregnetForskuddOpprettet": "2025-10-02T06:21:31.754",
+      "forekomstId": "9c1cfb4d-fbd1-4dec-84fe-76ffad1a9e9e",
+      "metaData": {
+        "kortgruppeForekomstId": "9c1cfb4d-fbd1-4dec-84fe-76ffad1a9e9e"
+      }
+    },
+    "harFlereArbeidsgivere": false,
+    "periodelager": {
+      "forekomstId": "005173b0-0766-4f16-be9b-0e5425c5006d",
+      "metaData": {
+        "kortgruppeForekomstId": "005173b0-0766-4f16-be9b-0e5425c5006d"
+      },
+      "skalHaTrekkodeloennKunTrygdeavgiftTilUtenlandskBorgerSomGrensegjenger": false
+    },
+    "forrigeInntektsaarVisning": {
+      "forekomstId": "e64936d9-ab39-47b3-98c6-c45bb51c054e",
+      "harBarnepensjon": false,
+      "harForeldrefradrag": false,
+      "harFremfoerbartUnderskudd": false,
+      "metaData": {
+        "kortgruppeForekomstId": "e64936d9-ab39-47b3-98c6-c45bb51c054e"
+      }
+    },
+    "kreverFiskerfradrag": false,
+    "kreverSjoefolkfradrag": false,
+    "skatteKonstanter": {
+      "forekomstId": "d2305d2d-6415-4f8e-9018-fd5078556f12",
+      "konstanter": {
+        "maksimaltFradragSjoefolk": [
+          {
+            "forekomstId": "0e430f1a-5164-42b1-87f7-b442b9f1c4cd",
+            "metaData": {
+              "kortgruppeForekomstId": "0e430f1a-5164-42b1-87f7-b442b9f1c4cd"
+            },
+            "navn": "SCRUBBED",
+            "verdi": "12345"
+          }
+        ],
+        "maksimaltSamletFradragFiskerOgSjoefolk": [
+          {
+            "forekomstId": "4f3f299f-d393-4e1a-9dce-48db1c321f55",
+            "metaData": {
+              "kortgruppeForekomstId": "4f3f299f-d393-4e1a-9dce-48db1c321f55"
+            },
+            "navn": "SCRUBBED",
+            "verdi": "12345"
+          }
+        ],
+        "fradragForIndividuellSparingTilPensjon": [
+          {
+            "forekomstId": "1e08e876-2b97-420d-999e-357d74359b5c",
+            "metaData": {
+              "kortgruppeForekomstId": "1e08e876-2b97-420d-999e-357d74359b5c"
+            },
+            "navn": "SCRUBBED",
+            "verdi": "12345"
+          }
+        ],
+        "fradragForDagligReisePerKilometer": [
+          {
+            "forekomstId": "f5d24145-b76a-458e-82ed-873a974c2e0d",
+            "metaData": {
+              "kortgruppeForekomstId": "f5d24145-b76a-458e-82ed-873a974c2e0d"
+            },
+            "navn": "SCRUBBED",
+            "verdi": "1.9"
+          }
+        ],
+        "beloepsgrenseFrikort": [
+          {
+            "forekomstId": "76d29f37-967e-4a6b-b07e-13bb1c5c31a4",
+            "metaData": {
+              "kortgruppeForekomstId": "76d29f37-967e-4a6b-b07e-13bb1c5c31a4"
+            },
+            "navn": "SCRUBBED",
+            "verdi": "12345"
+          }
+        ],
+        "egenandelAvstandsfradrag": [
+          {
+            "forekomstId": "36eeec7f-0eb8-4835-a26e-944dce66bd24",
+            "metaData": {
+              "kortgruppeForekomstId": "36eeec7f-0eb8-4835-a26e-944dce66bd24"
+            },
+            "navn": "SCRUBBED",
+            "verdi": "12345"
+          }
+        ],
+        "egenandelKostnadTilBompengeEllerFergeutgifterUnderArbeidsreise": [
+          {
+            "forekomstId": "ce5508e7-e56e-42f2-ae69-083f92742420",
+            "metaData": {
+              "kortgruppeForekomstId": "ce5508e7-e56e-42f2-ae69-083f92742420"
+            },
+            "navn": "SCRUBBED",
+            "verdi": "12345"
+          }
+        ],
+        "inntektsgrensenForKildeskattPaaLoenn": [
+          {
+            "forekomstId": "730d3964-bfac-433c-91ce-573813e2155f",
+            "metaData": {
+              "kortgruppeForekomstId": "730d3964-bfac-433c-91ce-573813e2155f"
+            },
+            "navn": "SCRUBBED",
+            "verdi": "12345"
+          }
+        ]
+      },
+      "metaData": {
+        "kortgruppeForekomstId": "d2305d2d-6415-4f8e-9018-fd5078556f12"
+      }
+    },
+    "soeknad": {
+      "forekomstId": "9f77a1f2-e331-4b8d-87e9-81f6b7e25b77",
+      "harOverstyrtForskuddsskatt": false,
+      "metaData": {
+        "kortgruppeForekomstId": "9f77a1f2-e331-4b8d-87e9-81f6b7e25b77"
+      }
+    }
+  },
+  "visningsdataTyper": {
+    "typerForReferanser": {
+      "": "OBJECT",
+      "beregnetSkatt.kommuneFylkesOgFellesskatt": "OBJECT",
+      "skattekort.beregnetSkatt.trygdeavgiftLavSats.forekomstId": "STRING",
+      "skattekort.beregnetSkatt.trygdeavgiftAvUfoeretrygd.beloep": "NUMBER",
+      "skattekort.beregnetSkatt.trygdeavgiftAvIntroduksjonsstoenad.forekomstId": "STRING",
+      "skattekort.forskuddsskatt.metaData": "OBJECT",
+      "skattekort.forskuddsskatt.kravforfall.metaData.kortgruppeForekomstId": "STRING",
+      "beregnetSkatt.totaltBeregnet.forekomstId": "STRING",
+      "beregnetSkatt.inntektsskattTilKommune.grunnlag": "NUMBER",
+      "harFlereArbeidsgivere": "BOOLEAN",
+      "skattekort.beregnetSkatt.skattefradragBSU.metaData.kortgruppeForekomstId": "STRING",
+      "beregnetSkatt.inntektsskattTilKommuneOgFylkesKommune.forekomstId": "STRING",
+      "skattekort.forskuddstrekk.tabellType": "STRING",
+      "skattekort.beregnetSkatt.skattefradragBSU.metaData": "OBJECT",
+      "skattekort.beregnetSkatt.trygdeavgiftMellomSats.beloep": "NUMBER",
+      "arbeidsfradragForUnge.oektInntekt.totaltBeregnetSkatt": "NUMBER",
+      "prognoseobjekt.*.pensjonsgrad": "NUMBER",
+      "fjoraaretsFrikortfordeling.arbeidsgivere.metaData": "OBJECT",
+      "beregnetSkatt.formuesskattTilKommune.metaData": "OBJECT",
+      "kreverProsenttrekk": "BOOLEAN",
+      "skattekort.beregnetSkatt.trygdeavgift.metaData.kortgruppeForekomstId": "STRING",
+      "skattekort.beregnetSkatt.forskuddsskattForrigeAar": "OBJECT",
+      "beregnetSkatt.trygdeavgiftAvIntroduksjonsstoenad.grunnlag": "NUMBER",
+      "lister.*.verdiFoerVerdsettingsrabattForFastEiendom": "NUMBER",
+      "fjoraaretsFrikortfordeling.metaData": "OBJECT",
+      "skattekort.forskuddsskatt.inntektsfordeling.forekomstId": "STRING",
+      "frikortfordeling.arbeidsgivere.metaData": "OBJECT",
+      "skattekort.beregnetSkatt.trinnskatt": "OBJECT",
+      "beregnetSkatt.inntektsskattTilKommuneOgFylkesKommune.metaData.kortgruppeForekomstId": "STRING",
+      "summertSkattegrunnlagForVisning": "MAP",
+      "skattekort.beregnetSkatt.fellesskatt.metaData.kortgruppeForekomstId": "STRING",
+      "beregnetSkatt.skattefradragBSU.beloep": "NUMBER",
+      "skattekort.beregnetSkatt.inntektsskattTilKommuneOgFylkesKommune.grunnlag": "NUMBER",
+      "skattekort.beregnetSkatt.formuesskattSvalbard.grunnlag": "NUMBER",
+      "beregnetSkatt.trygdeavgiftAvNaeringsinntektFraFiskeFangstFamilibarnehage.grunnlag": "NUMBER",
+      "fjoraaretsFrikortfordeling.arbeidsgivere.navn": "SCRUBBED",
+      "skattekort.beregnetSkatt.trygdeavgiftAvIntroduksjonsstoenad.beloep": "NUMBER",
+      "skattekort.forskuddsskatt.kravforfall.forfallsdato": "STRING",
+      "skatteprognoseBeregnet.metaData.kortgruppeForekomstId": "STRING",
+      "skattekort.beregnetSkatt.trinnskatt.grunnlag": "NUMBER",
+      "lister.*.identifikator": "SCRUBBED",
+      "skattekort.beregnetSkatt.trygdeavgiftAvNaeringsinntektFraFiskeFangstFamilibarnehage.forekomstId": "STRING",
+      "beregnetSkatt.formuesskattTilStat.metaData.kortgruppeForekomstId": "STRING",
+      "beregnetSkatt.formuesskattSvalbard.metaData": "OBJECT",
+      "fjoraaretsFrikortfordeling": "OBJECT",
+      "lister.*.beregnetMarkedsverdiPerEiendom": "NUMBER",
+      "beregnetSkatt.trygdeavgift.grunnlag": "NUMBER",
+      "hovedkjoering": "OBJECT",
+      "skattekort.beregnetSkatt.formuesskattTilKommune.beloep": "NUMBER",
+      "beregnetSkatt.forskuddsskattForrigeAar": "OBJECT",
+      "beregnetSkatt.formuesskattTilStat": "OBJECT",
+      "historikk.forekomstId": "STRING",
+      "skattekort.beregnetSkatt.totaltBeregnet.metaData": "OBJECT",
+      "skattekort.forskuddsskatt.inntektsfordeling.inntektstype": "STRING",
+      "beregnetSkatt.trygdeavgiftLavSats.grunnlag": "NUMBER",
+      "skattekort.beregnetSkatt.formuesskattTilKommune.forekomstId": "STRING",
+      "skattekort.forskuddsskatt.inntektsfordeling.fraDato": "STRING",
+      "arbeidsreise.metaData": "OBJECT",
+      "beregnetSkatt.forskuddsskattForrigeAar.forekomstId": "STRING",
+      "lister.*.andelAvFormuesverdiPrEiendom": "NUMBER",
+      "skattekort.beregnetSkatt.trygdeavgiftAvNaeringsinntektFraFiskeFangstFamilibarnehage.grunnlag": "NUMBER",
+      "forrigeInntektsaarVisning.harForeldrefradrag": "BOOLEAN",
+      "skatteprognoseBeregnet.beregnetForskuddsskattFraEnkeltpersonforetak": "NUMBER",
+      "frikortfordeling.inntektsaar": "NUMBER",
+      "virksomheter.organisasjonsform": "STRING",
+      "lister.*.barnetsPersonidentifikator": "SCRUBBED",
+      "beregnetSkatt.trygdeavgiftAvUfoeretrygd": "OBJECT",
+      "skatteKonstanter.konstanter.*.metaData": "OBJECT",
+      "skattekort.forskuddstrekk.visningsverdi": "STRING",
+      "beregnetSkatt.formuesskattTilStat.metaData": "OBJECT",
+      "historikk.metaData.kortgruppeForekomstId": "STRING",
+      "beregnetSkatt.skattefradragBSU": "OBJECT",
+      "beregnetSkatt.formuesskattSvalbard.metaData.kortgruppeForekomstId": "STRING",
+      "beregnetSkatt.trygdeavgiftAvUfoeretrygd.metaData": "OBJECT",
+      "fjoraaretsFrikortfordeling.arbeidsgivere": "LIST",
+      "beregnetSkatt.kommuneFylkesOgFellesskatt.grunnlag": "NUMBER",
+      "skattekort.beregnetSkatt.inntektsskattTilKommune.metaData.kortgruppeForekomstId": "STRING",
+      "skattekort.hovedinntektTrekk.forekomstId": "STRING",
+      "arbeidsreise.arbeidsreiser.metaData": "OBJECT",
+      "beregnetSkatt.formuesskatt.metaData": "OBJECT",
+      "beregnetSkatt.formuesskattSvalbard.forekomstId": "STRING",
+      "skattekort.forskuddsskatt.inntektsfordeling.tilDato": "STRING",
+      "skattekort.beregnetSkatt.formuesskattTilStat.beloep": "NUMBER",
+      "skattekort.beregnetSkatt.inntektsskattTilKommune": "OBJECT",
+      "skattekort.beregnetSkatt.sumSkatt.grunnlag": "NUMBER",
+      "lister.*.metaData.kortgruppeForekomstId": "STRING",
+      "skattekort.beregnetSkatt.trinnskatt.beloep": "NUMBER",
+      "skatteplikt.saerskiltSkatteplikt": "LIST",
+      "beregnetSkatt.forskuddsskattForrigeAar.grunnlag": "NUMBER",
+      "prognoseobjekt.*.beregnetMarkedsverdiPerEiendom": "NUMBER",
+      "skattekort.forskuddsskatt.kravforfall.metaData": "OBJECT",
+      "skatteprognose.veiledendeProsentsats": "NUMBER",
+      "skattekort.beregnetSkatt.metaData": "OBJECT",
+      "prognoseobjekt.*.identifikator": "SCRUBBED",
+      "frikortfordeling.arbeidsgivere": "LIST",
+      "skattekort.beregnetSkatt.formuesskatt.metaData.kortgruppeForekomstId": "STRING",
+      "beregnetSkatt.trygdeavgiftAvLoennsinntekt.metaData": "OBJECT",
+      "beregnetSkatt.trinnskatt.metaData.kortgruppeForekomstId": "STRING",
+      "skattekort.beregnetSkatt.skattefradrag": "OBJECT",
+      "frikortfordeling.arbeidsgivere.navn": "SCRUBBED",
+      "arbeidsreise.metaData.kortgruppeForekomstId": "STRING",
+      "skattekort.beregnetSkatt.formuesskattTilKommune.metaData.kortgruppeForekomstId": "STRING",
+      "frikortfordeling.arbeidsgivere.forekomstId": "STRING",
+      "forrigeInntektsaarVisning.metaData.kortgruppeForekomstId": "STRING",
+      "skattekort.beregnetSkatt.trygdeavgiftAvLoennsinntekt.metaData.kortgruppeForekomstId": "STRING",
+      "skattekort.beregnetSkatt.totaltBeregnet.forekomstId": "STRING",
+      "beregnetSkatt.trygdeavgiftMellomSats.forekomstId": "STRING",
+      "beregnetSkatt.sumSkatt.beloep": "NUMBER",
+      "skattekort.beregnetSkatt.trygdeavgiftMellomSats.metaData": "OBJECT",
+      "skattekort.beregnetSkatt.formuesskattSvalbard.metaData": "OBJECT",
+      "beregnetSkatt.trinnskatt.metaData": "OBJECT",
+      "skatteprognoseBeregnet.metaData": "OBJECT",
+      "hovedkjoering.metaData.kortgruppeForekomstId": "STRING",
+      "skattekort.beregnetSkatt.kommuneFylkesOgFellesskatt.beloep": "NUMBER",
+      "skattekort.forskuddstrekk.metaData.kortgruppeForekomstId": "STRING",
+      "forrigeInntektsaarVisning": "OBJECT",
+      "skattekort.beregnetSkatt.kommuneFylkesOgFellesskatt.forekomstId": "STRING",
+      "prognoseobjekt.*.barnetsPersonidentifikator": "SCRUBBED",
+      "skattekort.forskuddsskatt.beloep": "NUMBER",
+      "skattekort.metaData": "OBJECT",
+      "hittilIAar": "OBJECT",
+      "historikk.metaData": "OBJECT",
+      "prognoseobjekt.*.harNyFormuesverdiPrimaerbolig": "BOOLEAN",
+      "skattekort.beregnetSkatt.trygdeavgiftAvUfoeretrygd.grunnlag": "NUMBER",
+      "skattekort.beregnetSkatt.inntektsskattTilFylkesKommune.metaData": "OBJECT",
+      "skattekort.beregnetSkatt.formuesskattTilStat.grunnlag": "NUMBER",
+      "lister.*": "OBJECT",
+      "skattekort.beregnetSkatt.trygdeavgiftAvLoennsinntekt.metaData": "OBJECT",
+      "skattekort.hovedinntektTrekk.trekkprosent": "NUMBER",
+      "skattekort.beregnetSkatt.trygdeavgiftAvLoennsinntekt.beloep": "NUMBER",
+      "skattekort.beregnetSkatt.kommuneFylkesOgFellesskatt": "OBJECT",
+      "beregnetSkatt.trygdeavgiftAvNaeringsinntektFraFiskeFangstFamilibarnehage.metaData.kortgruppeForekomstId": "STRING",
+      "lister.*.formuesverdiForEiendom": "NUMBER",
+      "fjoraaretsFrikortfordeling.arbeidsgivere.arbeidsgiverId": "STRING",
+      "beregnetSkatt.sumSkatt.forekomstId": "STRING",
+      "skattekort.beregnetSkatt.trygdeavgift.metaData": "OBJECT",
+      "skattekort.beregningOevrigeResultater.gjenvaerendeEffektivtTrekkgrunnlag": "NUMBER",
+      "barn.forsoergelsesprosent": "NUMBER",
+      "beregnetSkatt.trygdeavgiftAvLoennsinntekt.metaData.kortgruppeForekomstId": "STRING",
+      "skattekort.beregnetSkatt.sumSkatt.beloep": "NUMBER",
+      "skattekort": "OBJECT",
+      "beregnetSkatt.formuesskattTilKommune.grunnlag": "NUMBER",
+      "frikortfordeling.metaData": "OBJECT",
+      "frikortfordeling.arbeidsgivere.beloep": "NUMBER",
+      "prognoseobjekt.*.formuesverdiForFormuesandel": "NUMBER",
+      "skattekort.forskuddsskatt.kravforfall.forekomstId": "STRING",
+      "beregnetSkatt.inntektsskattTilKommuneOgFylkesKommune": "OBJECT",
+      "skattekort.hovedinntektTrekk.tabellType": "STRING",
+      "arbeidsreise.arbeidsreiser.lengdeTurRetur": "NUMBER",
+      "skatteplikt.metaData": "OBJECT",
+      "skattekort.beregningOevrigeResultater.metaData": "OBJECT",
+      "skattekort.beregnetSkatt.trygdeavgiftHoeySats": "OBJECT",
+      "hovedkjoering.forekomstId": "STRING",
+      "prognoseobjekt.*": "OBJECT",
+      "beregnetSkatt.trygdeavgiftMellomSats.metaData.kortgruppeForekomstId": "STRING",
+      "skattekort.beregnetSkatt.inntektsskattTilKommuneOgFylkesKommune.beloep": "NUMBER",
+      "skatteprognoseBeregnet.erMidlertidigBeregning": "BOOLEAN",
+      "lister.*.pensjonsgrad": "NUMBER",
+      "skatteplikt": "OBJECT",
+      "beregnetSkatt.trygdeavgiftMellomSats": "OBJECT",
+      "skattekort.beregnetSkatt.forskuddsskattForrigeAar.forekomstId": "STRING",
+      "skattekort.beregnetSkatt.totaltBeregnet.beloep": "NUMBER",
+      "skattekort.beregnetSkatt.fellesskatt.forekomstId": "STRING",
+      "virksomheter.navn": "SCRUBBED",
+      "beregnetSkatt.formuesskattTilKommune.metaData.kortgruppeForekomstId": "STRING",
+      "skattekort.beregnetSkatt.inntektsskattTilFylkesKommune.grunnlag": "NUMBER",
+      "summertSkattegrunnlagForVisning.*.identifikator": "SCRUBBED",
+      "skattekort.beregnetSkatt.trygdeavgiftAvNaeringsinntektFraFiskeFangstFamilibarnehage.metaData.kortgruppeForekomstId": "STRING",
+      "skattekort.beregnetSkatt.trygdeavgiftHoeySats.beloep": "NUMBER",
+      "beregnetSkatt.formuesskattTilStat.grunnlag": "NUMBER",
+      "skattekort.beregnetSkatt.inntektsskattTilKommune.metaData": "OBJECT",
+      "skattekort.beregnetSkatt.trygdeavgiftHoeySats.metaData.kortgruppeForekomstId": "STRING",
+      "skattekort.beregnetSkatt.forskuddsskattForrigeAar.beloep": "NUMBER",
+      "beregnetSkatt.fellesskatt.metaData": "OBJECT",
+      "virksomheter.metaData": "OBJECT",
+      "hittilIAar.utbetaltLoennOgTrygd": "NUMBER",
+      "beregnetSkatt.skattefradrag.forekomstId": "STRING",
+      "summertSkattegrunnlagForVisning.*.metaData": "OBJECT",
+      "skattekort.beregnetSkatt.trygdeavgiftAvLoennsinntekt": "OBJECT",
+      "lister.*.beloep": "NUMBER",
+      "skattekort.beregnetSkatt.trygdeavgiftHoeySats.grunnlag": "NUMBER",
+      "beregnetSkatt.formuesskatt.beloep": "NUMBER",
+      "beregnetSkatt.trygdeavgiftLavSats.metaData": "OBJECT",
+      "beregnetSkatt.trygdeavgift": "OBJECT",
+      "skatteplikt.skattepliktigTilNorge": "BOOLEAN",
+      "arbeidsreise.reisefradrag": "NUMBER",
+      "skattekort.beregnetSkatt.sumSkatt.metaData.kortgruppeForekomstId": "STRING",
+      "skattekort.beregnetSkatt.trygdeavgiftAvIntroduksjonsstoenad.grunnlag": "NUMBER",
+      "beregnetSkatt.skattefradrag": "OBJECT",
+      "arbeidsreise.forekomstId": "STRING",
+      "skattekort.beregnetSkatt.skattefradragBSU.grunnlag": "NUMBER",
+      "beregnetSkatt.trygdeavgift.metaData": "OBJECT",
+      "beregnetSkatt.trygdeavgift.forekomstId": "STRING",
+      "hovedkjoering.metaData": "OBJECT",
+      "beregnetSkatt.trygdeavgiftMellomSats.beloep": "NUMBER",
+      "skattekort.forskuddstrekk.forekomstId": "STRING",
+      "beregnetSkatt.fellesskatt.metaData.kortgruppeForekomstId": "STRING",
+      "arbeidsfradragForUnge.oektInntekt.forekomstId": "STRING",
+      "skatteprognoseBeregnet.manglerDokumenter": "BOOLEAN",
+      "barn.forekomstId": "STRING",
+      "skatteprognose.forekomstId": "STRING",
+      "beregnetSkatt.forskuddsskattForrigeAar.metaData.kortgruppeForekomstId": "STRING",
+      "frikortfordeling.forekomstId": "STRING",
+      "skatteKonstanter.konstanter.*.verdi": "STRING",
+      "beregnetSkatt.metaData.kortgruppeForekomstId": "STRING",
+      "summertSkattegrunnlagForVisning.*.tekniskNavn": "SCRUBBED",
+      "beregnetSkatt.totaltBeregnet.beloep": "NUMBER",
+      "prognoseobjekt.*.land": "STRING",
+      "skattekort.beregnetSkatt.sumSkatt.forekomstId": "STRING",
+      "avregningsresultat": "OBJECT",
+      "beregnetSkatt.trygdeavgiftAvLoennsinntekt.grunnlag": "NUMBER",
+      "beregnetSkatt.skattefradragBSU.forekomstId": "STRING",
+      "arbeidsfradragForUnge.forekomstId": "STRING",
+      "skattekort.beregningOevrigeResultater.beregnetForskuddsskattFraEnkeltpersonforetak": "NUMBER",
+      "skattekort.beregnetSkatt.inntektsskattTilFylkesKommune.metaData.kortgruppeForekomstId": "STRING",
+      "skatteplikt.alder": "NUMBER",
+      "skattekort.forskuddstrekk.harBeloepsgrense": "BOOLEAN",
+      "historikk.fjoraaretsBeregnetForskuddOpprettet": "STRING",
+      "skattekort.beregnetSkatt.fellesskatt.beloep": "NUMBER",
+      "barn.navn": "SCRUBBED",
+      "arbeidsreise.arbeidsreiser.metaData.kortgruppeForekomstId": "STRING",
+      "arbeidsfradragForUnge.oektInntekt.samletInntekter": "NUMBER",
+      "beregnetSkatt.trygdeavgiftAvIntroduksjonsstoenad.metaData.kortgruppeForekomstId": "STRING",
+      "skattekort.forskuddsskatt.inntektsfordeling.metaData.kortgruppeForekomstId": "STRING",
+      "beregnetSkatt.trygdeavgiftAvUfoeretrygd.grunnlag": "NUMBER",
+      "beregnetSkatt.formuesskattSvalbard.beloep": "NUMBER",
+      "skattekort.beregnetSkatt.fellesskatt": "OBJECT",
+      "beregnetSkatt.sumSkatt.grunnlag": "NUMBER",
+      "beregnetSkatt.inntektsskattTilFylkesKommune.beloep": "NUMBER",
+      "arbeidsfradragForUnge.metaData.kortgruppeForekomstId": "STRING",
+      "prognoseobjekt.*.beloep": "NUMBER",
+      "beregnetSkatt.inntektsskattTilFylkesKommune.metaData.kortgruppeForekomstId": "STRING",
+      "prognoseobjekt.*.verdiFoerVerdsettingsrabattForFastEiendom": "NUMBER",
+      "beregnetSkatt.formuesskattTilStat.beloep": "NUMBER",
+      "prognoseobjekt.*.boligbruk": "STRING",
+      "skattekort.beregnetSkatt": "OBJECT",
+      "forrigeInntektsaarVisning.harBarnepensjon": "BOOLEAN",
+      "hittilIAar.harFlereAribeidsgivere": "BOOLEAN",
+      "skattekort.beregnetSkatt.formuesskatt.forekomstId": "STRING",
+      "skattekort.beregnetSkatt.trygdeavgift": "OBJECT",
+      "beregnetSkatt.skattefradragBSU.grunnlag": "NUMBER",
+      "beregnetSkatt.trygdeavgiftLavSats.metaData.kortgruppeForekomstId": "STRING",
+      "skattekort.beregningOevrigeResultater.forekomstId": "STRING",
+      "skattekort.beregnetSkatt.trygdeavgiftAvUfoeretrygd.metaData": "OBJECT",
+      "skattekort.beregnetSkatt.trygdeavgiftAvIntroduksjonsstoenad.metaData.kortgruppeForekomstId": "STRING",
+      "periodelager.metaData.kortgruppeForekomstId": "STRING",
+      "beregnetSkatt.totaltBeregnet.metaData.kortgruppeForekomstId": "STRING",
+      "skattekort.beregnetSkatt.formuesskattTilStat.metaData": "OBJECT",
+      "skattekort.beregnetSkatt.trygdeavgiftMellomSats": "OBJECT",
+      "skattekort.beregnetSkatt.skatteeffektAvArbeidsfradragForUnge": "NUMBER",
+      "beregnetSkatt.trinnskatt.beloep": "NUMBER",
+      "lister.*.forekomstId": "STRING",
+      "kildeskattPaaLoennSoeknad": "STRING",
+      "periodelager.metaData": "OBJECT",
+      "skattekort.beregnetSkatt.forskuddsskattForrigeAar.metaData": "OBJECT",
+      "skattekort.beregnetSkatt.trygdeavgiftMellomSats.forekomstId": "STRING",
+      "skattekort.beregnetSkatt.trygdeavgiftHoeySats.forekomstId": "STRING",
+      "skattekort.beregnetSkatt.trygdeavgiftAvIntroduksjonsstoenad.metaData": "OBJECT",
+      "skattekort.beregnetSkatt.forskuddsskattForrigeAar.metaData.kortgruppeForekomstId": "STRING",
+      "skattekort.beregnetSkatt.formuesskattTilStat.forekomstId": "STRING",
+      "soeknad.forekomstId": "STRING",
+      "beregnetSkatt.trinnskatt.grunnlag": "NUMBER",
+      "forrigeInntektsaarVisning.forekomstId": "STRING",
+      "skattekort.beregnetSkatt.trygdeavgiftHoeySats.metaData": "OBJECT",
+      "virksomheter.forekomstId": "STRING",
+      "arbeidsreise.arbeidsreiser": "LIST",
+      "skatteplikt.historiskSaerskiltSkatteplikt": "LIST",
+      "beregnetSkatt.forskuddsskattForrigeAar.metaData": "OBJECT",
+      "fjoraaretsFrikortfordeling.forekomstId": "STRING",
+      "skattekort.beregnetSkatt.totaltBeregnet": "OBJECT",
+      "summertSkattegrunnlagForVisning.*": "OBJECT",
+      "forrigeInntektsaarVisning.metaData": "OBJECT",
+      "arbeidsfradragForUnge.metaData": "OBJECT",
+      "beregnetSkatt.trygdeavgiftAvIntroduksjonsstoenad.beloep": "NUMBER",
+      "frikortfordeling.metaData.kortgruppeForekomstId": "STRING",
+      "skattekort.beregnetSkatt.skattefradragBSU": "OBJECT",
+      "frikortfordeling.arbeidsgivere.metaData.kortgruppeForekomstId": "STRING",
+      "skattekort.forskuddsskatt.kravforfall.beloep": "NUMBER",
+      "beregnetSkatt.sumSkatt.metaData.kortgruppeForekomstId": "STRING",
+      "beregnetSkatt.trygdeavgiftAvUfoeretrygd.forekomstId": "STRING",
+      "beregnetSkatt.trygdeavgift.beloep": "NUMBER",
+      "prognoseobjekt": "MAP",
+      "skattekort.hovedinntektTrekk.harBeloepsgrense": "BOOLEAN",
+      "frikortfordeling.arbeidsgivere.arbeidsgiverId": "STRING",
+      "beregnetSkatt.trygdeavgiftAvUfoeretrygd.metaData.kortgruppeForekomstId": "STRING",
+      "skattekort.beregnetSkatt.skattefradrag.forekomstId": "STRING",
+      "historikk.beregnetForskuddOpprettet": "STRING",
+      "beregnetSkatt.kommuneFylkesOgFellesskatt.forekomstId": "STRING",
+      "fjoraaretsFrikortfordeling.arbeidsgivere.beloep": "NUMBER",
+      "skattekort.beregnetSkatt.formuesskatt.metaData": "OBJECT",
+      "beregnetSkatt.inntektsskattTilKommune": "OBJECT",
+      "skattekort.beregnetSkatt.trygdeavgift.grunnlag": "NUMBER",
+      "skatteprognose.metaData.kortgruppeForekomstId": "STRING",
+      "beregnetSkatt.formuesskatt.metaData.kortgruppeForekomstId": "STRING",
+      "skatteKonstanter.konstanter": "MAP",
+      "skattekort.beregnetSkatt.trygdeavgiftAvUfoeretrygd.forekomstId": "STRING",
+      "arbeidsfradragForUnge.oektInntekt": "LIST",
+      "hittilIAar.metaData.kortgruppeForekomstId": "STRING",
+      "beregnetSkatt.inntektsskattTilFylkesKommune.metaData": "OBJECT",
+      "skattekort.beregnetSkatt.skattefradrag.beloep": "NUMBER",
+      "beregnetSkatt.trinnskatt.forekomstId": "STRING",
+      "beregnetSkatt.trygdeavgiftHoeySats.forekomstId": "STRING",
+      "beregnetSkatt.trygdeavgiftLavSats.beloep": "NUMBER",
+      "skattekort.beregnetSkatt.trygdeavgiftLavSats.metaData.kortgruppeForekomstId": "STRING",
+      "skattekort.beregnetSkatt.trygdeavgiftLavSats.beloep": "NUMBER",
+      "skattekort.beregnetSkatt.kommuneFylkesOgFellesskatt.metaData.kortgruppeForekomstId": "STRING",
+      "summertSkattegrunnlagForVisning.*.beloep": "NUMBER",
+      "skatteKonstanter.forekomstId": "STRING",
+      "lister.*.harNyFormuesverdiPrimaerbolig": "BOOLEAN",
+      "skattekort.beregnetSkatt.formuesskattSvalbard": "OBJECT",
+      "skatteKonstanter.konstanter.*.metaData.kortgruppeForekomstId": "STRING",
+      "historikk": "OBJECT",
+      "skatteplikt.deltakerkategoriIForsoeksordningMedArbeidsfradragForUnge": "STRING",
+      "beregnetSkatt.skattefradrag.metaData.kortgruppeForekomstId": "STRING",
+      "beregnetSkatt.trygdeavgiftHoeySats.grunnlag": "NUMBER",
+      "skatteKonstanter.metaData": "OBJECT",
+      "beregnetSkatt.fellesskatt": "OBJECT",
+      "avvik": "LIST",
+      "skattekort.beregnetSkatt.formuesskattSvalbard.forekomstId": "STRING",
+      "beregnetSkatt.formuesskattTilKommune.forekomstId": "STRING",
+      "beregnetSkatt.skattefradrag.beloep": "NUMBER",
+      "skattekort.beregnetSkatt.formuesskatt": "OBJECT",
+      "beregnetSkatt.fellesskatt.grunnlag": "NUMBER",
+      "beregnetSkatt.totaltBeregnet.grunnlag": "NUMBER",
+      "hittilIAar.metaData": "OBJECT",
+      "beregnetSkatt.inntektsskattTilKommuneOgFylkesKommune.metaData": "OBJECT",
+      "skattekort.beregnetSkatt.formuesskattTilKommune.metaData": "OBJECT",
+      "beregnetSkatt.trygdeavgiftLavSats.forekomstId": "STRING",
+      "kreverSjoefolkfradrag": "BOOLEAN",
+      "skatteprognose.metaData": "OBJECT",
+      "beregnetSkatt.formuesskattSvalbard": "OBJECT",
+      "skattekort.beregnetSkatt.fellesskatt.grunnlag": "NUMBER",
+      "barn.metaData": "OBJECT",
+      "skattekort.beregnetSkatt.forekomstId": "STRING",
+      "barn.metaData.kortgruppeForekomstId": "STRING",
+      "beregnetSkatt.trygdeavgiftAvUfoeretrygd.beloep": "NUMBER",
+      "lister.*.kommune": "STRING",
+      "skattekort.hovedinntektTrekk.metaData.kortgruppeForekomstId": "STRING",
+      "skattekort.forskuddsskatt.metaData.kortgruppeForekomstId": "STRING",
+      "avregningsresultat.forekomstId": "STRING",
+      "skattekort.beregnetSkatt.trygdeavgiftAvNaeringsinntektFraFiskeFangstFamilibarnehage": "OBJECT",
+      "skatteKonstanter.konstanter.*.forekomstId": "STRING",
+      "skattekort.forskuddstrekk.trekkprosent": "NUMBER",
+      "beregnetSkatt.fellesskatt.forekomstId": "STRING",
+      "soeknad.metaData.kortgruppeForekomstId": "STRING",
+      "lister.*.land": "STRING",
+      "beregnetSkatt.sumSkatt.metaData": "OBJECT",
+      "skattekort.beregnetSkatt.skattefradrag.metaData.kortgruppeForekomstId": "STRING",
+      "beregnetSkatt.kommuneFylkesOgFellesskatt.metaData.kortgruppeForekomstId": "STRING",
+      "skattekort.hovedinntektTrekk.type": "STRING",
+      "kreverFiskerfradrag": "BOOLEAN",
+      "forrigeInntektsaarVisning.harFremfoerbartUnderskudd": "BOOLEAN",
+      "skatteprognoseBeregnet.totaltOverskuddFraEnkeltpersonforetakVedHovedKjoering": "NUMBER",
+      "skattekort.beregnetSkatt.trygdeavgiftLavSats": "OBJECT",
+      "prognoseobjekt.*.formuesverdiForEiendom": "NUMBER",
+      "skattekort.beregningOevrigeResultater.metaData.kortgruppeForekomstId": "STRING",
+      "hittilIAar.utbetaltPensjon": "NUMBER",
+      "prognoseobjekt.*.antallMaaneder": "NUMBER",
+      "beregnetSkatt.kommuneFylkesOgFellesskatt.metaData": "OBJECT",
+      "barn": "LIST",
+      "frikortfordeling": "OBJECT",
+      "skattekort.beregnetSkatt.trinnskatt.metaData.kortgruppeForekomstId": "STRING",
+      "skattekort.beregnetSkatt.forskuddsskattForrigeAar.grunnlag": "NUMBER",
+      "hittilIAar.trukketForskuddstrekk": "NUMBER",
+      "skatteKonstanter": "OBJECT",
+      "skattekort.beregnetSkatt.formuesskattSvalbard.metaData.kortgruppeForekomstId": "STRING",
+      "skatteprognoseBeregnet": "OBJECT",
+      "skatteprognose.totaltOverskuddFraEnkeltpersonforetakVedHovedKjoering": "NUMBER",
+      "summertSkattegrunnlagForVisning.*.metaData.kortgruppeForekomstId": "STRING",
+      "arbeidsreise": "OBJECT",
+      "skatteplikt.forekomstId": "STRING",
+      "beregnetSkatt.trygdeavgiftMellomSats.grunnlag": "NUMBER",
+      "prognoseobjekt.*.saerskiltSkatteplikt": "STRING",
+      "skattekort.beregnetSkatt.trygdeavgiftAvUfoeretrygd.metaData.kortgruppeForekomstId": "STRING",
+      "skattekort.beregnetSkatt.fellesskatt.metaData": "OBJECT",
+      "beregnetSkatt.forekomstId": "STRING",
+      "kreverFrikortPaaPensjon": "BOOLEAN",
+      "skatteplikt.statusPaaDeltakerIForsoeksordningMedArbeidsfradragForUnge": "STRING",
+      "periodelager": "OBJECT",
+      "lister.*.antallMaaneder": "NUMBER",
+      "skattekort.beregnetSkatt.skattefradragBSU.beloep": "NUMBER",
+      "lister.*.boligbruk": "STRING",
+      "beregnetSkatt.trygdeavgiftAvLoennsinntekt.forekomstId": "STRING",
+      "beregnetSkatt.sumSkatt": "OBJECT",
+      "beregnetSkatt.trinnskatt": "OBJECT",
+      "skattekort.beregnetSkatt.trinnskatt.forekomstId": "STRING",
+      "arbeidsfradragForUnge.oektInntekt.metaData": "OBJECT",
+      "beregnetSkatt.totaltBeregnet.metaData": "OBJECT",
+      "skattekort.hovedinntektTrekk.metaData": "OBJECT",
+      "skattekort.hovedinntektTrekk.antallMaanederForTrekk": "NUMBER",
+      "hovedkjoering.harAlderspensjon": "BOOLEAN",
+      "beregnetSkatt.kommuneFylkesOgFellesskatt.beloep": "NUMBER",
+      "fjoraaretsFrikortfordeling.arbeidsgivere.forekomstId": "STRING",
+      "skattekort.forskuddsskatt.inntektsfordeling.metaData": "OBJECT",
+      "beregnetSkatt.trygdeavgift.metaData.kortgruppeForekomstId": "STRING",
+      "skattekort.beregnetSkatt.skattefradragBSU.forekomstId": "STRING",
+      "skattekort.beregnetSkatt.inntektsskattTilKommune.grunnlag": "NUMBER",
+      "periodelager.forekomstId": "STRING",
+      "beregnetSkatt.inntektsskattTilFylkesKommune.forekomstId": "STRING",
+      "fjoraaretsFrikortfordeling.arbeidsgivere.metaData.kortgruppeForekomstId": "STRING",
+      "beregnetSkatt.skattefradragBSU.metaData": "OBJECT",
+      "barn.fnr": "STRING",
+      "skattekort.forskuddstrekk.metaData": "OBJECT",
+      "skattekort.forekomstId": "STRING",
+      "prognoseobjekt.*.forekomstId": "STRING",
+      "arbeidsfradragForUnge": "OBJECT",
+      "beregnetSkatt.inntektsskattTilKommuneOgFylkesKommune.beloep": "NUMBER",
+      "beregnetSkatt.inntektsskattTilFylkesKommune": "OBJECT",
+      "beregnetSkatt.inntektsskattTilKommune.beloep": "NUMBER",
+      "skattekort.beregnetSkatt.inntektsskattTilKommune.forekomstId": "STRING",
+      "skattekort.forskuddstrekk.antallMaanederForTrekk": "NUMBER",
+      "skattekort.beregnetSkatt.formuesskatt.grunnlag": "NUMBER",
+      "avregningsresultat.metaData": "OBJECT",
+      "arbeidsreise.arbeidsreiser.forekomstId": "STRING",
+      "skattekort.beregnetSkatt.inntektsskattTilFylkesKommune": "OBJECT",
+      "virksomheter.naeringskoder": "LIST",
+      "skattekort.beregnetSkatt.kommuneFylkesOgFellesskatt.grunnlag": "NUMBER",
+      "beregnetSkatt.inntektsskattTilFylkesKommune.grunnlag": "NUMBER",
+      "arbeidsfradragForUnge.oektInntekt.oektMedBeloep": "NUMBER",
+      "skattekort.beregnetSkatt.totaltBeregnet.grunnlag": "NUMBER",
+      "prognoseobjekt.*.metaData.kortgruppeForekomstId": "STRING",
+      "fjoraaretsFrikortfordeling.metaData.kortgruppeForekomstId": "STRING",
+      "beregnetSkatt.inntektsskattTilKommuneOgFylkesKommune.grunnlag": "NUMBER",
+      "beregnetSkatt.formuesskatt.forekomstId": "STRING",
+      "skattekort.forskuddstrekk.type": "STRING",
+      "skattekort.beregnetSkatt.inntektsskattTilKommuneOgFylkesKommune": "OBJECT",
+      "beregnetSkatt.formuesskattSvalbard.grunnlag": "NUMBER",
+      "skatteplikt.kommune": "STRING",
+      "avregningsresultat.metaData.kortgruppeForekomstId": "STRING",
+      "lister.*.saerskiltSkatteplikt": "STRING",
+      "skattekort.beregnetSkatt.trygdeavgiftLavSats.metaData": "OBJECT",
+      "skattekort.beregnetSkatt.inntektsskattTilFylkesKommune.forekomstId": "STRING",
+      "skattekort.beregningOevrigeResultater": "OBJECT",
+      "skattekort.forskuddstrekk": "LIST",
+      "skatteplikt.skattepliktigTilSvalbard": "BOOLEAN",
+      "skattekort.metaData.kortgruppeForekomstId": "STRING",
+      "skatteKonstanter.konstanter.*.navn": "SCRUBBED",
+      "skatteplikt.metaData.kortgruppeForekomstId": "STRING",
+      "beregnetSkatt.trygdeavgiftAvIntroduksjonsstoenad": "OBJECT",
+      "beregnetSkatt.trygdeavgiftAvNaeringsinntektFraFiskeFangstFamilibarnehage": "OBJECT",
+      "skatteprognoseBeregnet.forekomstId": "STRING",
+      "skattekort.beregnetSkatt.trygdeavgiftAvIntroduksjonsstoenad": "OBJECT",
+      "skattekort.beregnetSkatt.trygdeavgiftMellomSats.grunnlag": "NUMBER",
+      "beregnetSkatt.inntektsskattTilKommune.metaData.kortgruppeForekomstId": "STRING",
+      "beregnetSkatt.trygdeavgiftAvNaeringsinntektFraFiskeFangstFamilibarnehage.beloep": "NUMBER",
+      "skattekort.beregnetSkatt.inntektsskattTilKommuneOgFylkesKommune.metaData.kortgruppeForekomstId": "STRING",
+      "beregnetSkatt.skattefradrag.grunnlag": "NUMBER",
+      "beregnetSkatt.trygdeavgiftHoeySats.metaData": "OBJECT",
+      "skattekort.beregnetSkatt.trygdeavgiftAvNaeringsinntektFraFiskeFangstFamilibarnehage.metaData": "OBJECT",
+      "beregnetSkatt.trygdeavgiftAvNaeringsinntektFraFiskeFangstFamilibarnehage.metaData": "OBJECT",
+      "skatteprognoseBeregnet.totaltOverskuddFraEnkeltpersonforetak": "NUMBER",
+      "beregnetSkatt.trygdeavgiftHoeySats": "OBJECT",
+      "prognoseobjekt.*.andelAvFormuesverdiPrEiendom": "NUMBER",
+      "soeknad": "OBJECT",
+      "beregnetSkatt.formuesskatt": "OBJECT",
+      "skattekort.forskuddsskatt": "OBJECT",
+      "skattekort.beregnetSkatt.metaData.kortgruppeForekomstId": "STRING",
+      "beregnetSkatt.formuesskatt.grunnlag": "NUMBER",
+      "beregnetSkatt.trygdeavgiftHoeySats.metaData.kortgruppeForekomstId": "STRING",
+      "beregnetSkatt.trygdeavgiftAvLoennsinntekt": "OBJECT",
+      "skattekort.forskuddsskatt.kravforfall": "LIST",
+      "arbeidsreise.arbeidsreiser.antallDager": "NUMBER",
+      "skattekort.forskuddsskatt.inntektsfordeling.beloep": "NUMBER",
+      "beregnetSkatt.inntektsskattTilKommune.metaData": "OBJECT",
+      "periodelager.skalHaTrekkodeloennKunTrygdeavgiftTilUtenlandskBorgerSomGrensegjenger": "BOOLEAN",
+      "summertSkattegrunnlagForVisning.*.forekomstId": "STRING",
+      "skattekort.beregnetSkatt.trygdeavgift.forekomstId": "STRING",
+      "beregnetSkatt.skatteeffektAvArbeidsfradragForUnge": "NUMBER",
+      "beregnetSkatt.trygdeavgiftAvIntroduksjonsstoenad.metaData": "OBJECT",
+      "beregnetSkatt.fellesskatt.beloep": "NUMBER",
+      "prognoseobjekt.*.kommune": "STRING",
+      "beregnetSkatt.trygdeavgiftMellomSats.metaData": "OBJECT",
+      "skattekort.forskuddstrekk.tabellnummer": "SCRUBBED",
+      "lister.*.metaData": "OBJECT",
+      "skattekort.hovedinntektTrekk.visningsverdi": "STRING",
+      "beregnetSkatt.trygdeavgiftHoeySats.beloep": "NUMBER",
+      "fjoraaretsFrikortfordeling.inntektsaar": "NUMBER",
+      "lister": "MAP",
+      "skattekort.forskuddstrekk.trekkode": "STRING",
+      "skatteprognose.beregnetForskuddsskattFraEnkeltpersonforetak": "NUMBER",
+      "soeknad.metaData": "OBJECT",
+      "virksomheter.orgnummer": "SCRUBBED",
+      "skattekort.beregnetSkatt.trygdeavgiftAvNaeringsinntektFraFiskeFangstFamilibarnehage.beloep": "NUMBER",
+      "skatteprognose.manglerDokumenter": "BOOLEAN",
+      "skattekort.beregnetSkatt.formuesskattTilKommune.grunnlag": "NUMBER",
+      "skattekort.beregnetSkatt.formuesskattSvalbard.beloep": "NUMBER",
+      "skatteKonstanter.metaData.kortgruppeForekomstId": "STRING",
+      "summertSkattegrunnlagForVisning.*.kategori": "STRING",
+      "skattekort.beregnetSkatt.formuesskattTilStat": "OBJECT",
+      "skatteprognose.totaltOverskuddFraEnkeltpersonforetak": "NUMBER",
+      "hittilIAar.utbetaltLott": "NUMBER",
+      "beregnetSkatt.inntektsskattTilKommune.forekomstId": "STRING",
+      "skatteprognose": "OBJECT",
+      "beregnetSkatt.formuesskattTilKommune": "OBJECT",
+      "skattekort.beregnetSkatt.skattefradrag.grunnlag": "NUMBER",
+      "skattekort.beregnetSkatt.skattefradrag.metaData": "OBJECT",
+      "skattekort.beregnetSkatt.formuesskattTilKommune": "OBJECT",
+      "hittilIAar.beregnesFraMaaned": "NUMBER",
+      "beregnetSkatt.formuesskattTilKommune.beloep": "NUMBER",
+      "beregnetSkatt.totaltBeregnet": "OBJECT",
+      "beregnetSkatt.skattefradrag.metaData": "OBJECT",
+      "skattekort.forskuddsskatt.forekomstId": "STRING",
+      "lister.*.formuesverdiForFormuesandel": "NUMBER",
+      "skattekort.beregnetSkatt.trygdeavgiftAvLoennsinntekt.grunnlag": "NUMBER",
+      "skattekort.hovedinntektTrekk": "OBJECT",
+      "beregnetSkatt.forskuddsskattForrigeAar.beloep": "NUMBER",
+      "beregnetSkatt.formuesskattTilStat.forekomstId": "STRING",
+      "skatteprognoseBeregnet.datoForGjeldendeBeregnetForskudd": "STRING",
+      "skattekort.beregnetSkatt.sumSkatt": "OBJECT",
+      "skattekort.beregnetSkatt.formuesskattTilStat.metaData.kortgruppeForekomstId": "STRING",
+      "skatteprognoseBeregnet.veiledendeProsentsats": "NUMBER",
+      "skatteprognose.erMidlertidigBeregning": "BOOLEAN",
+      "skattekort.beregnetSkatt.trygdeavgiftAvLoennsinntekt.forekomstId": "STRING",
+      "beregnetSkatt.metaData": "OBJECT",
+      "skattekort.beregnetSkatt.trygdeavgiftMellomSats.metaData.kortgruppeForekomstId": "STRING",
+      "hittilIAar.innbetaltForskuddsskatt": "NUMBER",
+      "skattekort.beregnetSkatt.totaltBeregnet.metaData.kortgruppeForekomstId": "STRING",
+      "skattekort.beregnetSkatt.inntektsskattTilKommuneOgFylkesKommune.metaData": "OBJECT",
+      "virksomheter.metaData.kortgruppeForekomstId": "STRING",
+      "beregnetSkatt.trygdeavgiftAvNaeringsinntektFraFiskeFangstFamilibarnehage.forekomstId": "STRING",
+      "prognoseobjekt.*.metaData": "OBJECT",
+      "skattekort.forskuddsskatt.inntektsfordeling": "LIST",
+      "skatteprognose.datoForGjeldendeBeregnetForskudd": "STRING",
+      "skattekort.beregnetSkatt.inntektsskattTilKommune.beloep": "NUMBER",
+      "skattekort.beregnetSkatt.inntektsskattTilFylkesKommune.beloep": "NUMBER",
+      "virksomheter": "LIST",
+      "skattekort.beregnetSkatt.sumSkatt.metaData": "OBJECT",
+      "soeknad.harOverstyrtForskuddsskatt": "BOOLEAN",
+      "beregnetSkatt.trygdeavgiftAvLoennsinntekt.beloep": "NUMBER",
+      "skattekort.hovedinntektTrekk.trekkode": "STRING",
+      "skattekort.beregnetSkatt.trygdeavgiftLavSats.grunnlag": "NUMBER",
+      "skattekort.beregnetSkatt.formuesskatt.beloep": "NUMBER",
+      "skattekort.beregnetSkatt.trygdeavgiftAvUfoeretrygd": "OBJECT",
+      "beregnetSkatt.trygdeavgiftLavSats": "OBJECT",
+      "skattekort.beregnetSkatt.kommuneFylkesOgFellesskatt.metaData": "OBJECT",
+      "skattekort.beregnetSkatt.trinnskatt.metaData": "OBJECT",
+      "arbeidsfradragForUnge.oektInntekt.metaData.kortgruppeForekomstId": "STRING",
+      "avregningsresultat.erForhaandsfastsatt": "BOOLEAN",
+      "barn.alderIInntektsaar": "NUMBER",
+      "beregnetSkatt.skattefradragBSU.metaData.kortgruppeForekomstId": "STRING",
+      "skattekort.beregnetSkatt.trygdeavgift.beloep": "NUMBER",
+      "skattekort.hovedinntektTrekk.tabellnummer": "SCRUBBED",
+      "virksomheter.aktivIInntektsaar": "BOOLEAN",
+      "skatteKonstanter.konstanter.*": "OBJECT",
+      "beregnetSkatt": "OBJECT",
+      "skattekort.beregnetSkatt.inntektsskattTilKommuneOgFylkesKommune.forekomstId": "STRING",
+      "beregnetSkatt.trygdeavgiftAvIntroduksjonsstoenad.forekomstId": "STRING",
+      "hittilIAar.forekomstId": "STRING"
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "locale": "nb",
+  "tekstelementer": {
+    "visningsnavn.felt.innskudd": {
+      "noekkel": "visningsnavn.felt.innskudd",
+      "tekniskNavn": "felt.innskudd",
+      "type": "visningsnavn",
+      "tekst": "Bankinnskudd i 2026"
+    },
+    "visningsnavn.felt.paaloepteRenterGenerell": {
+      "noekkel": "visningsnavn.felt.paaloepteRenterGenerell",
+      "tekniskNavn": "felt.paaloepteRenterGenerell",
+      "type": "visningsnavn",
+      "tekst": "Renter på lån og gjeld"
+    },
+    "hjelpetekst.felt.paaloepteRenterGenerell": {
+      "noekkel": "hjelpetekst.felt.paaloepteRenterGenerell",
+      "tekniskNavn": "felt.paaloepteRenterGenerell",
+      "type": "hjelpetekst",
+      "tekst": "Hvis du har flere lån, må du legge sammen beløpet for alle rentene. Les mer om <a target=\"_blank\" href=\"https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/bank-og-lan/lan-og-renter/\">lån og renter på lån</a>."
+    },
+    "visningsnavn.felt.innenlandskGjeldGenerell": {
+      "noekkel": "visningsnavn.felt.innenlandskGjeldGenerell",
+      "tekniskNavn": "felt.innenlandskGjeldGenerell",
+      "type": "visningsnavn",
+      "tekst": "Lån og gjeld i 2026"
+    },
+    "hjelpetekst.felt.innenlandskGjeldGenerell": {
+      "noekkel": "hjelpetekst.felt.innenlandskGjeldGenerell",
+      "tekniskNavn": "felt.innenlandskGjeldGenerell",
+      "type": "hjelpetekst",
+      "tekst": "Hvis du har flere lån, må du legge sammen beløpet for alle lånene. Les mer om <a target=\"_blank\" href=\"https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/bank-og-lan/lan-og-renter/\">lån og renter på lån</a>"
+    },
+    "visningsnavn.felt.opptjenteRenter": {
+      "noekkel": "visningsnavn.felt.opptjenteRenter",
+      "tekniskNavn": "felt.opptjenteRenter",
+      "type": "visningsnavn",
+      "tekst": "Renter på bankinnskudd i 2026"
+    },
+    "hjelpetekst.felt.opptjenteRenter": {
+      "noekkel": "hjelpetekst.felt.opptjenteRenter",
+      "tekniskNavn": "felt.opptjenteRenter",
+      "type": "hjelpetekst",
+      "tekst": "Her legger du inn renteinntekter som du får i løpet av året. Renteinntekter er renter du får på bankinnskudd. Hvis du er usikker på beløpet, kan du ta kontakt med banken din."
+    },
+    "visningsnavn.felt.pensjonsinnbetaling": {
+      "noekkel": "visningsnavn.felt.pensjonsinnbetaling",
+      "tekniskNavn": "felt.pensjonsinnbetaling",
+      "type": "visningsnavn",
+      "tekst": "Premie til pensjon i 2026"
+    },
+    "hjelpetekst.felt.pensjonsinnbetaling": {
+      "noekkel": "hjelpetekst.felt.pensjonsinnbetaling",
+      "tekniskNavn": "felt.pensjonsinnbetaling",
+      "type": "hjelpetekst",
+      "tekst": "Du finner informasjon om beløpet på lønnsslippen din. Du kan også se hvor mye arbeidsgiver har rapportert inn i trekk til pensjon på <a target=\"_blank\" href=\"https://skatt.skatteetaten.no/web/aorinnsyn/\">Mine inntekter og arbeidsforhold</a>."
+    },
+    "visningsnavn.felt.betaltFagforeningskontingent": {
+      "noekkel": "visningsnavn.felt.betaltFagforeningskontingent",
+      "tekniskNavn": "felt.betaltFagforeningskontingent",
+      "type": "visningsnavn",
+      "tekst": "Fagforeningskontigent i 2026"
+    },
+    "hjelpetekst.felt.betaltFagforeningskontingent": {
+      "noekkel": "hjelpetekst.felt.betaltFagforeningskontingent",
+      "tekniskNavn": "felt.betaltFagforeningskontingent",
+      "type": "hjelpetekst",
+      "tekst": "Hvis arbeidsgiver trekker fagforeningskontingenten, finner du beløpet på lønnsslippen din. Hvis du betaler selv, legger du inn beløpet du kommer til å betale hele året."
+    },
+    "visningsnavn.felt.inntektsfradragForFagforeningskontingent": {
+      "noekkel": "visningsnavn.felt.inntektsfradragForFagforeningskontingent",
+      "tekniskNavn": "felt.inntektsfradragForFagforeningskontingent",
+      "type": "visningsnavn",
+      "tekst": "Beregnet fradrag"
+    },
+    "hjelpetekst.felt.inntektsfradragForFagforeningskontingent": {
+      "noekkel": "hjelpetekst.felt.inntektsfradragForFagforeningskontingent",
+      "tekniskNavn": "felt.inntektsfradragForFagforeningskontingent",
+      "type": "hjelpetekst",
+      "tekst": "Du kan maksimalt få 8&nbsp;700 kroner i fradrag hvert år."
+    },
+    "visningsnavn.felt.loennsinntektMedTrygdeavgiftspliktOgMedTrekkpliktGenerell": {
+      "noekkel": "visningsnavn.felt.loennsinntektMedTrygdeavgiftspliktOgMedTrekkpliktGenerell",
+      "tekniskNavn": "felt.loennsinntektMedTrygdeavgiftspliktOgMedTrekkpliktGenerell",
+      "type": "visningsnavn",
+      "tekst": "Lønn, sykepenger og tilsvarende ytelser i 2026"
+    },
+    "hjelpetekst.felt.loennsinntektMedTrygdeavgiftspliktOgMedTrekkpliktGenerell": {
+      "noekkel": "hjelpetekst.felt.loennsinntektMedTrygdeavgiftspliktOgMedTrekkpliktGenerell",
+      "tekniskNavn": "felt.loennsinntektMedTrygdeavgiftspliktOgMedTrekkpliktGenerell",
+      "type": "hjelpetekst",
+      "tekst": "Du skal ta med feriepenger, overtid og tillegg når du beregner lønnen. Har du flere arbeidsgivere, må du legge sammen lønnen fra alle arbeidsgiverne. Les mer om <a target=\"_blank\" href=\"https://www.skatteetaten.no/person/skatt/skattekort/om-skattekortet/tallene-i-skattekortet/\">hvordan vi beregner lønnsinntekten din</a>.<br aria-hidden='true'><br aria-hidden='true'>Det beregnes ikke feriepenger på styrehonorar og styrehonorar gir heller ikke grunnlag for sykepenger."
+    },
+    "visningsnavn.felt.verdiFoerVerdsettingsrabattForAksjedelIAksjesparekonto": {
+      "noekkel": "visningsnavn.felt.verdiFoerVerdsettingsrabattForAksjedelIAksjesparekonto",
+      "tekniskNavn": "felt.verdiFoerVerdsettingsrabattForAksjedelIAksjesparekonto",
+      "type": "visningsnavn",
+      "tekst": "Formue aksjesparekonto - aksjedel i 2026"
+    },
+    "hjelpetekst.felt.verdiFoerVerdsettingsrabattForAksjedelIAksjesparekonto": {
+      "noekkel": "hjelpetekst.felt.verdiFoerVerdsettingsrabattForAksjedelIAksjesparekonto",
+      "tekniskNavn": "felt.verdiFoerVerdsettingsrabattForAksjedelIAksjesparekonto",
+      "type": "hjelpetekst",
+      "tekst": "Verdien du har som aksjedel per 31.12.2026 er en del av formuen din. Tallet trenger ikke være nøyaktig."
+    }
+  }
+}

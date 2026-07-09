@@ -1,0 +1,14 @@
+# Secrets, NEVER commit. The captured Min skatt session cookie is a bearer of
+# full read access to your tax data.
+.env
+.env.*
+!.env.example
+*.session.json
+
+# Rust
+/target
+**/*.rs.bk
+Cargo.lock.orig
+
+# OS
+.DS_Store

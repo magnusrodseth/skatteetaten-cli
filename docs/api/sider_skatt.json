@@ -1,0 +1,2266 @@
+{
+  "blokker": [
+    {
+      "blokknavn": "SCRUBBED",
+      "blokkdata": {
+        "data": {},
+        "hendelsestidspunkt": null,
+        "id": -6683432358447673538,
+        "inntektsaar": 2025,
+        "kilde": "default-data",
+        "mal": "skatteoppgjoer-parent",
+        "oppdatert": 0,
+        "paavegneav": false,
+        "skattyterdata": false
+      },
+      "blokker": [
+        {
+          "blokknavn": "SCRUBBED",
+          "blokkdata": {
+            "data": {
+              "iban": "SCRUBBED",
+              "aaBetale": 12345,
+              "swiftBIC": "SCRUBBED",
+              "restskatt": 12345,
+              "dokumentId": "SCRUBBED",
+              "kontonummer": "SCRUBBED",
+              "visningsdato": "2026-04-08",
+              "beregnetSkatt": 12345,
+              "forhaandsfastsatt": false,
+              "avregnetForskuddstrekk": 12345,
+              "betaltTilleggsforskudd": 71867,
+              "kontonummerForInnbetaling": "SCRUBBED",
+              "kidnummerForInnbetalingAvRestskatt": "SCRUBBED",
+              "kidnummerForInnbetalingAvTilleggsforskudd": "SCRUBBED"
+            },
+            "hendelsestidspunkt": 1775599200000,
+            "id": 3403045335,
+            "inntektsaar": 2025,
+            "kilde": "no.skatteetaten.fastsetting.formueinntekt.mineskatteforhold.msf-pub-skatteinfo2",
+            "mal": "skatteoppgjoer",
+            "oppdatert": 1774625993087,
+            "paavegneav": false,
+            "skattyterdata": true
+          },
+          "blokker": [],
+          "plassering": null,
+          "visningsstyring": {
+            "aktiv": true,
+            "blokknavn": "SCRUBBED",
+            "dato": "2026-07-09T10:33:13.136573589",
+            "defaultMal": null,
+            "parent": null,
+            "plassering": [],
+            "range": {
+              "emptyRange": false,
+              "fromInclude": 2025,
+              "fromInfinity": false,
+              "malDuration": {},
+              "toInclude": 2025,
+              "toInfinity": false
+            },
+            "visningsstyringDataOgMalDuration": [
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": 2025,
+                  "fromInfinity": false,
+                  "malDuration": null,
+                  "toInclude": 2025,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {}
+              }
+            ]
+          },
+          "visningsstyringData": {}
+        }
+      ],
+      "plassering": {
+        "plassering": 4,
+        "contains": null,
+        "notContains": null,
+        "skalSkjulesMedPlasseringslogikk": false
+      },
+      "visningsstyring": {
+        "aktiv": true,
+        "blokknavn": "SCRUBBED",
+        "dato": "2026-07-09T10:33:13.136170082",
+        "defaultMal": null,
+        "parent": null,
+        "plassering": [],
+        "range": {
+          "emptyRange": false,
+          "fromInclude": 2025,
+          "fromInfinity": false,
+          "malDuration": {},
+          "toInclude": 2025,
+          "toInfinity": false
+        },
+        "visningsstyringDataOgMalDuration": [
+          {
+            "rangeDto": {
+              "emptyRange": false,
+              "fromInclude": 2025,
+              "fromInfinity": false,
+              "malDuration": null,
+              "toInclude": 2025,
+              "toInfinity": false
+            },
+            "visningsstyringData": {}
+          }
+        ]
+      },
+      "visningsstyringData": null
+    },
+    {
+      "blokknavn": "SCRUBBED",
+      "blokkdata": {
+        "data": {},
+        "hendelsestidspunkt": null,
+        "id": -5851649297116951675,
+        "inntektsaar": 2026,
+        "kilde": "default-data",
+        "mal": "skattekort",
+        "oppdatert": 0,
+        "paavegneav": false,
+        "skattyterdata": false
+      },
+      "blokker": [
+        {
+          "blokknavn": "SCRUBBED",
+          "blokkdata": {
+            "data": {
+              "harKPL": false,
+              "trekktype": "tabell",
+              "hovedtrekk": "12345",
+              "pensjonstrekk": "",
+              "tilleggstrekk": "12345",
+              "forskuddsskatt": 12345,
+              "soeknadUnderBehandling": false,
+              "kravforfallForskuddsskatt": [],
+              "hovedtrekkErGrensegjengerstrekk": false
+            },
+            "hendelsestidspunkt": null,
+            "id": 2732661509,
+            "inntektsaar": 2026,
+            "kilde": "no.skatteetaten.fastsetting.formueinntekt.mineskatteforhold.msf-pub-skatteinfo2",
+            "mal": "forskudd",
+            "oppdatert": 1773930297468,
+            "paavegneav": false,
+            "skattyterdata": true
+          },
+          "blokker": [],
+          "plassering": null,
+          "visningsstyring": {
+            "aktiv": true,
+            "blokknavn": "SCRUBBED",
+            "dato": "2026-07-09T10:33:13.136161704",
+            "defaultMal": null,
+            "parent": null,
+            "plassering": [],
+            "range": {
+              "emptyRange": false,
+              "fromInclude": 2026,
+              "fromInfinity": false,
+              "malDuration": {},
+              "toInclude": 2026,
+              "toInfinity": false
+            },
+            "visningsstyringDataOgMalDuration": [
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": 2026,
+                  "fromInfinity": false,
+                  "malDuration": null,
+                  "toInclude": 2026,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {}
+              }
+            ]
+          },
+          "visningsstyringData": {}
+        },
+        {
+          "blokknavn": "SCRUBBED",
+          "blokkdata": {
+            "data": {
+              "harHentetSkattekortListe": [
+                {
+                  "navn": "SCRUBBED",
+                  "endretDato": "SCRUBBED",
+                  "hentetDato": "2026-05-12",
+                  "arbeidsgiverId": "SCRUBBED"
+                },
+                {
+                  "navn": "SCRUBBED",
+                  "endretDato": "SCRUBBED",
+                  "hentetDato": "2026-03-24",
+                  "arbeidsgiverId": "SCRUBBED"
+                }
+              ]
+            },
+            "hendelsestidspunkt": null,
+            "id": 2842856257,
+            "inntektsaar": 2026,
+            "kilde": "no.skatteetaten.fastsetting.formueinntekt.mineskatteforhold.msf-pub-skatteinfo2",
+            "mal": "hentet-skattekort",
+            "oppdatert": 1778581053529,
+            "paavegneav": false,
+            "skattyterdata": true
+          },
+          "blokker": [],
+          "plassering": null,
+          "visningsstyring": {
+            "aktiv": true,
+            "blokknavn": "SCRUBBED",
+            "dato": "2026-07-09T10:33:13.136154547",
+            "defaultMal": null,
+            "parent": null,
+            "plassering": [],
+            "range": {
+              "emptyRange": false,
+              "fromInclude": 2026,
+              "fromInfinity": false,
+              "malDuration": {},
+              "toInclude": 2026,
+              "toInfinity": false
+            },
+            "visningsstyringDataOgMalDuration": [
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": 2026,
+                  "fromInfinity": false,
+                  "malDuration": null,
+                  "toInclude": 2026,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {}
+              }
+            ]
+          },
+          "visningsstyringData": {}
+        }
+      ],
+      "plassering": {
+        "plassering": 5,
+        "contains": null,
+        "notContains": null,
+        "skalSkjulesMedPlasseringslogikk": false
+      },
+      "visningsstyring": {
+        "aktiv": true,
+        "blokknavn": "SCRUBBED",
+        "dato": "2026-07-09T10:33:13.136149537",
+        "defaultMal": null,
+        "parent": null,
+        "plassering": [
+          {
+            "plassering": 3,
+            "contains": null,
+            "notContains": [
+              "skattemelding",
+              "skatteoppgjoer-parent"
+            ],
+            "skalSkjulesMedPlasseringslogikk": false
+          },
+          {
+            "plassering": 5,
+            "contains": null,
+            "notContains": null,
+            "skalSkjulesMedPlasseringslogikk": false
+          }
+        ],
+        "range": {
+          "emptyRange": false,
+          "fromInclude": 2026,
+          "fromInfinity": false,
+          "malDuration": {},
+          "toInclude": 2026,
+          "toInfinity": false
+        },
+        "visningsstyringDataOgMalDuration": [
+          {
+            "rangeDto": {
+              "emptyRange": false,
+              "fromInclude": 2026,
+              "fromInfinity": false,
+              "malDuration": null,
+              "toInclude": 2026,
+              "toInfinity": false
+            },
+            "visningsstyringData": {}
+          }
+        ]
+      },
+      "visningsstyringData": null
+    },
+    {
+      "blokknavn": "SCRUBBED",
+      "blokkdata": {
+        "data": {},
+        "hendelsestidspunkt": null,
+        "id": -7210425903991954766,
+        "inntektsaar": null,
+        "kilde": "default-data",
+        "mal": "mineskattedokumenter",
+        "oppdatert": 0,
+        "paavegneav": false,
+        "skattyterdata": false
+      },
+      "blokker": [],
+      "plassering": {
+        "plassering": 6,
+        "contains": null,
+        "notContains": null,
+        "skalSkjulesMedPlasseringslogikk": false
+      },
+      "visningsstyring": null,
+      "visningsstyringData": null
+    },
+    {
+      "blokknavn": "SCRUBBED",
+      "blokkdata": {
+        "data": {},
+        "hendelsestidspunkt": 1769900400000,
+        "id": 2695616763,
+        "inntektsaar": 2026,
+        "kilde": "no.skatteetaten.fastsetting.formueinntekt.mineskatteforhold.msf-pub-skatteinfo2",
+        "mal": "arbeidsfradrag-for-unge",
+        "oppdatert": 1778076064959,
+        "paavegneav": false,
+        "skattyterdata": true
+      },
+      "blokker": [],
+      "plassering": {
+        "plassering": 7,
+        "contains": null,
+        "notContains": null,
+        "skalSkjulesMedPlasseringslogikk": false
+      },
+      "visningsstyring": {
+        "aktiv": true,
+        "blokknavn": "SCRUBBED",
+        "dato": "2026-07-09T10:33:13.136843488",
+        "defaultMal": null,
+        "parent": null,
+        "plassering": [],
+        "range": {
+          "emptyRange": false,
+          "fromInclude": 2026,
+          "fromInfinity": false,
+          "malDuration": {},
+          "toInclude": 2026,
+          "toInfinity": false
+        },
+        "visningsstyringDataOgMalDuration": [
+          {
+            "rangeDto": {
+              "emptyRange": false,
+              "fromInclude": 2026,
+              "fromInfinity": false,
+              "malDuration": null,
+              "toInclude": 2026,
+              "toInfinity": false
+            },
+            "visningsstyringData": {}
+          }
+        ]
+      },
+      "visningsstyringData": {}
+    },
+    {
+      "blokknavn": "SCRUBBED",
+      "blokkdata": {
+        "data": {},
+        "hendelsestidspunkt": null,
+        "id": 3935088955566211299,
+        "inntektsaar": null,
+        "kilde": "default-data",
+        "mal": "personlige-forhold",
+        "oppdatert": 0,
+        "paavegneav": false,
+        "skattyterdata": false
+      },
+      "blokker": [
+        {
+          "blokknavn": "SCRUBBED",
+          "blokkdata": {
+            "data": {
+              "aktivKonto": {
+                "banknavn": "SCRUBBED",
+                "kontonummer": "SCRUBBED"
+              },
+              "sistEndret": "2026-02-23"
+            },
+            "hendelsestidspunkt": null,
+            "id": 3158266853,
+            "inntektsaar": 2025,
+            "kilde": "no.skatteetaten.fastsetting.formueinntekt.mineskatteforhold.msf-pub-skatteinfo2",
+            "mal": "aktiv-konto",
+            "oppdatert": 1772028404234,
+            "paavegneav": false,
+            "skattyterdata": true
+          },
+          "blokker": [],
+          "plassering": null,
+          "visningsstyring": {
+            "aktiv": true,
+            "blokknavn": "SCRUBBED",
+            "dato": "2026-07-09T10:33:13.136851614",
+            "defaultMal": null,
+            "parent": "personlige-forhold",
+            "plassering": [],
+            "range": {
+              "emptyRange": false,
+              "fromInclude": 2025,
+              "fromInfinity": false,
+              "malDuration": {},
+              "toInclude": 2025,
+              "toInfinity": false
+            },
+            "visningsstyringDataOgMalDuration": [
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": 2025,
+                  "fromInfinity": false,
+                  "malDuration": null,
+                  "toInclude": 2025,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {}
+              }
+            ]
+          },
+          "visningsstyringData": {}
+        },
+        {
+          "blokknavn": "SCRUBBED",
+          "blokkdata": {
+            "data": {
+              "kommunenummer": "SCRUBBED",
+              "kommunenummerForrigeAar": "SCRUBBED"
+            },
+            "hendelsestidspunkt": null,
+            "id": 2701360805,
+            "inntektsaar": 2026,
+            "kilde": "no.skatteetaten.fastsetting.formueinntekt.mineskatteforhold.msf-pub-skatteinfo2",
+            "mal": "skattested",
+            "oppdatert": 1765204016666,
+            "paavegneav": false,
+            "skattyterdata": true
+          },
+          "blokker": [],
+          "plassering": null,
+          "visningsstyring": {
+            "aktiv": true,
+            "blokknavn": "SCRUBBED",
+            "dato": "2026-07-09T10:33:13.136978973",
+            "defaultMal": null,
+            "parent": "personlige-forhold",
+            "plassering": [],
+            "range": {
+              "emptyRange": false,
+              "fromInclude": 2026,
+              "fromInfinity": false,
+              "malDuration": {},
+              "toInclude": 2026,
+              "toInfinity": false
+            },
+            "visningsstyringDataOgMalDuration": [
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": 2026,
+                  "fromInfinity": false,
+                  "malDuration": null,
+                  "toInclude": 2026,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {}
+              }
+            ]
+          },
+          "visningsstyringData": {}
+        },
+        {
+          "blokknavn": "SCRUBBED",
+          "blokkdata": {
+            "data": {},
+            "hendelsestidspunkt": null,
+            "id": -4850408141117434584,
+            "inntektsaar": null,
+            "kilde": "default-data",
+            "mal": "innsyn-amelding",
+            "oppdatert": 0,
+            "paavegneav": false,
+            "skattyterdata": false
+          },
+          "blokker": [],
+          "plassering": null,
+          "visningsstyring": null,
+          "visningsstyringData": null
+        },
+        {
+          "blokknavn": "SCRUBBED",
+          "blokkdata": {
+            "data": {},
+            "hendelsestidspunkt": null,
+            "id": 8948172040011400143,
+            "inntektsaar": null,
+            "kilde": "default-data",
+            "mal": "tilganger",
+            "oppdatert": 0,
+            "paavegneav": false,
+            "skattyterdata": false
+          },
+          "blokker": [],
+          "plassering": null,
+          "visningsstyring": null,
+          "visningsstyringData": null
+        }
+      ],
+      "plassering": {
+        "plassering": 8,
+        "contains": null,
+        "notContains": null,
+        "skalSkjulesMedPlasseringslogikk": false
+      },
+      "visningsstyring": null,
+      "visningsstyringData": null
+    },
+    {
+      "blokknavn": "SCRUBBED",
+      "blokkdata": {
+        "data": {},
+        "hendelsestidspunkt": null,
+        "id": 289644561235866889,
+        "inntektsaar": null,
+        "kilde": "default-data",
+        "mal": "annet",
+        "oppdatert": 0,
+        "paavegneav": false,
+        "skattyterdata": false
+      },
+      "blokker": [
+        {
+          "blokknavn": "SCRUBBED",
+          "blokkdata": {
+            "data": {},
+            "hendelsestidspunkt": null,
+            "id": 2145441043450819060,
+            "inntektsaar": null,
+            "kilde": "default-data",
+            "mal": "tilsvar",
+            "oppdatert": 0,
+            "paavegneav": false,
+            "skattyterdata": false
+          },
+          "blokker": [],
+          "plassering": null,
+          "visningsstyring": null,
+          "visningsstyringData": null
+        },
+        {
+          "blokknavn": "SCRUBBED",
+          "blokkdata": {
+            "data": {},
+            "hendelsestidspunkt": 1771526687763,
+            "id": 3575741269,
+            "inntektsaar": 2025,
+            "kilde": "no.skatteetaten.fastsetting.formueinntekt.msf-pub-feedleser",
+            "mal": "aksjeoppgave-lenke",
+            "oppdatert": 1778480757269,
+            "paavegneav": false,
+            "skattyterdata": true
+          },
+          "blokker": [],
+          "plassering": null,
+          "visningsstyring": null,
+          "visningsstyringData": null
+        }
+      ],
+      "plassering": {
+        "plassering": 9,
+        "contains": null,
+        "notContains": null,
+        "skalSkjulesMedPlasseringslogikk": false
+      },
+      "visningsstyring": null,
+      "visningsstyringData": null
+    },
+    {
+      "blokknavn": "SCRUBBED",
+      "blokkdata": {
+        "data": {},
+        "hendelsestidspunkt": null,
+        "id": 1241870773941931397,
+        "inntektsaar": null,
+        "kilde": "default-data",
+        "mal": "historikk",
+        "oppdatert": 0,
+        "paavegneav": false,
+        "skattyterdata": false
+      },
+      "blokker": [
+        {
+          "blokknavn": "SCRUBBED",
+          "blokkdata": {
+            "data": {
+              "dokumentId": "SCRUBBED",
+              "utstedtDato": "2023-06-08",
+              "identifikator": "SCRUBBED",
+              "forhaandsfastsatt": false
+            },
+            "hendelsestidspunkt": 1686175200000,
+            "id": 230521383,
+            "inntektsaar": 2022,
+            "kilde": "no.skatteetaten.fastsetting.formueinntekt.mineskatteforhold.msf-pub-skatteinfo2",
+            "mal": "historikk-skatteoppgjoer",
+            "oppdatert": 1770176343944,
+            "paavegneav": false,
+            "skattyterdata": true
+          },
+          "blokker": [],
+          "plassering": null,
+          "visningsstyring": {
+            "aktiv": true,
+            "blokknavn": "SCRUBBED",
+            "dato": "2026-07-09T10:33:13.137562798",
+            "defaultMal": null,
+            "parent": "historikk",
+            "plassering": [],
+            "range": {
+              "emptyRange": false,
+              "fromInclude": null,
+              "fromInfinity": true,
+              "malDuration": {},
+              "toInclude": 2027,
+              "toInfinity": false
+            },
+            "visningsstyringDataOgMalDuration": [
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": null,
+                  "fromInfinity": true,
+                  "malDuration": null,
+                  "toInclude": 2022,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {
+                  "lesModus": true
+                }
+              },
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": 2023,
+                  "fromInfinity": false,
+                  "malDuration": null,
+                  "toInclude": 2027,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {
+                  "lesModus": false
+                }
+              }
+            ]
+          },
+          "visningsstyringData": {
+            "lesModus": true
+          }
+        },
+        {
+          "blokknavn": "SCRUBBED",
+          "blokkdata": {
+            "data": {
+              "skattemelding": [
+                {
+                  "utstedtDato": "2025-03-20T10:30:40.715Z",
+                  "identifikator": "SCRUBBED",
+                  "utstedtDatoType": "fastsatt",
+                  "skjoennsfastsatt": false,
+                  "forhaandsfastsatt": false
+                }
+              ]
+            },
+            "hendelsestidspunkt": null,
+            "id": 3096111723,
+            "inntektsaar": 2024,
+            "kilde": "msf-pub-skattemelding",
+            "mal": "historikk-skattemelding",
+            "oppdatert": 1770925634078,
+            "paavegneav": false,
+            "skattyterdata": true
+          },
+          "blokker": [],
+          "plassering": null,
+          "visningsstyring": {
+            "aktiv": true,
+            "blokknavn": "SCRUBBED",
+            "dato": "2026-07-09T10:33:13.137546758",
+            "defaultMal": null,
+            "parent": "historikk",
+            "plassering": [],
+            "range": {
+              "emptyRange": false,
+              "fromInclude": null,
+              "fromInfinity": true,
+              "malDuration": {},
+              "toInclude": 2026,
+              "toInfinity": false
+            },
+            "visningsstyringDataOgMalDuration": [
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": 2023,
+                  "fromInfinity": false,
+                  "malDuration": null,
+                  "toInclude": 2026,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {
+                  "lesModus": false
+                }
+              },
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": null,
+                  "fromInfinity": true,
+                  "malDuration": null,
+                  "toInclude": 2022,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {
+                  "lesModus": true
+                }
+              }
+            ]
+          },
+          "visningsstyringData": {
+            "lesModus": false
+          }
+        },
+        {
+          "blokknavn": "SCRUBBED",
+          "blokkdata": {
+            "data": {
+              "skattemelding": [
+                {
+                  "utstedtDato": "2023-03-30T10:31:09.701Z",
+                  "identifikator": "SCRUBBED",
+                  "utstedtDatoType": "fastsatt",
+                  "skjoennsfastsatt": false,
+                  "forhaandsfastsatt": false
+                }
+              ]
+            },
+            "hendelsestidspunkt": null,
+            "id": 3432718180,
+            "inntektsaar": 2022,
+            "kilde": "msf-pub-skattemelding",
+            "mal": "historikk-skattemelding",
+            "oppdatert": 1775576692431,
+            "paavegneav": false,
+            "skattyterdata": true
+          },
+          "blokker": [],
+          "plassering": null,
+          "visningsstyring": {
+            "aktiv": true,
+            "blokknavn": "SCRUBBED",
+            "dato": "2026-07-09T10:33:13.137546758",
+            "defaultMal": null,
+            "parent": "historikk",
+            "plassering": [],
+            "range": {
+              "emptyRange": false,
+              "fromInclude": null,
+              "fromInfinity": true,
+              "malDuration": {},
+              "toInclude": 2026,
+              "toInfinity": false
+            },
+            "visningsstyringDataOgMalDuration": [
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": 2023,
+                  "fromInfinity": false,
+                  "malDuration": null,
+                  "toInclude": 2026,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {
+                  "lesModus": false
+                }
+              },
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": null,
+                  "fromInfinity": true,
+                  "malDuration": null,
+                  "toInclude": 2022,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {
+                  "lesModus": true
+                }
+              }
+            ]
+          },
+          "visningsstyringData": {
+            "lesModus": true
+          }
+        },
+        {
+          "blokknavn": "SCRUBBED",
+          "blokkdata": {
+            "data": {
+              "dokumentId": "SCRUBBED",
+              "utstedtDato": "2021-05-20",
+              "identifikator": "SCRUBBED",
+              "forhaandsfastsatt": false
+            },
+            "hendelsestidspunkt": 1621461600000,
+            "id": 104875150,
+            "inntektsaar": 2020,
+            "kilde": "no.skatteetaten.fastsetting.formueinntekt.mineskatteforhold.msf-pub-skatteinfo2",
+            "mal": "historikk-skatteoppgjoer",
+            "oppdatert": 1770188368153,
+            "paavegneav": false,
+            "skattyterdata": true
+          },
+          "blokker": [],
+          "plassering": null,
+          "visningsstyring": {
+            "aktiv": true,
+            "blokknavn": "SCRUBBED",
+            "dato": "2026-07-09T10:33:13.137562798",
+            "defaultMal": null,
+            "parent": "historikk",
+            "plassering": [],
+            "range": {
+              "emptyRange": false,
+              "fromInclude": null,
+              "fromInfinity": true,
+              "malDuration": {},
+              "toInclude": 2027,
+              "toInfinity": false
+            },
+            "visningsstyringDataOgMalDuration": [
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": null,
+                  "fromInfinity": true,
+                  "malDuration": null,
+                  "toInclude": 2022,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {
+                  "lesModus": true
+                }
+              },
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": 2023,
+                  "fromInfinity": false,
+                  "malDuration": null,
+                  "toInclude": 2027,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {
+                  "lesModus": false
+                }
+              }
+            ]
+          },
+          "visningsstyringData": {
+            "lesModus": true
+          }
+        },
+        {
+          "blokknavn": "SCRUBBED",
+          "blokkdata": {
+            "data": {
+              "dato": "2024-06-12T07:14:07.190Z",
+              "identifikator": "SCRUBBED",
+              "skjoennsfastsatt": false,
+              "forhaandsfastsatt": false
+            },
+            "hendelsestidspunkt": null,
+            "id": 3078280822,
+            "inntektsaar": 2023,
+            "kilde": "msf-pub-skattemelding",
+            "mal": "historikk-skattemelding-fastsatt",
+            "oppdatert": 1770822434090,
+            "paavegneav": false,
+            "skattyterdata": true
+          },
+          "blokker": [],
+          "plassering": null,
+          "visningsstyring": {
+            "aktiv": true,
+            "blokknavn": "SCRUBBED",
+            "dato": "2026-07-09T10:33:13.137530761",
+            "defaultMal": null,
+            "parent": "historikk",
+            "plassering": [],
+            "range": {
+              "emptyRange": false,
+              "fromInclude": null,
+              "fromInfinity": true,
+              "malDuration": {},
+              "toInclude": 2026,
+              "toInfinity": false
+            },
+            "visningsstyringDataOgMalDuration": [
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": null,
+                  "fromInfinity": true,
+                  "malDuration": null,
+                  "toInclude": 2026,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {}
+              }
+            ]
+          },
+          "visningsstyringData": {}
+        },
+        {
+          "blokknavn": "SCRUBBED",
+          "blokkdata": {
+            "data": {
+              "skattemelding": [
+                {
+                  "utstedtDato": "2020-03-19T17:57:44.574Z",
+                  "identifikator": "SCRUBBED",
+                  "utstedtDatoType": "fastsatt",
+                  "skjoennsfastsatt": false,
+                  "forhaandsfastsatt": false
+                }
+              ]
+            },
+            "hendelsestidspunkt": null,
+            "id": 3028098209,
+            "inntektsaar": 2019,
+            "kilde": "msf-pub-skattemelding",
+            "mal": "historikk-skattemelding",
+            "oppdatert": 1770648981110,
+            "paavegneav": false,
+            "skattyterdata": true
+          },
+          "blokker": [],
+          "plassering": null,
+          "visningsstyring": {
+            "aktiv": true,
+            "blokknavn": "SCRUBBED",
+            "dato": "2026-07-09T10:33:13.137546758",
+            "defaultMal": null,
+            "parent": "historikk",
+            "plassering": [],
+            "range": {
+              "emptyRange": false,
+              "fromInclude": null,
+              "fromInfinity": true,
+              "malDuration": {},
+              "toInclude": 2026,
+              "toInfinity": false
+            },
+            "visningsstyringDataOgMalDuration": [
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": 2023,
+                  "fromInfinity": false,
+                  "malDuration": null,
+                  "toInclude": 2026,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {
+                  "lesModus": false
+                }
+              },
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": null,
+                  "fromInfinity": true,
+                  "malDuration": null,
+                  "toInclude": 2022,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {
+                  "lesModus": true
+                }
+              }
+            ]
+          },
+          "visningsstyringData": {
+            "lesModus": true
+          }
+        },
+        {
+          "blokknavn": "SCRUBBED",
+          "blokkdata": {
+            "data": {
+              "dokumentId": "SCRUBBED",
+              "utstedtDato": "2025-03-26",
+              "identifikator": "SCRUBBED",
+              "forhaandsfastsatt": false
+            },
+            "hendelsestidspunkt": 1742943600000,
+            "id": 1829885812,
+            "inntektsaar": 2024,
+            "kilde": "no.skatteetaten.fastsetting.formueinntekt.mineskatteforhold.msf-pub-skatteinfo2",
+            "mal": "historikk-skatteoppgjoer",
+            "oppdatert": 1770202891352,
+            "paavegneav": false,
+            "skattyterdata": true
+          },
+          "blokker": [],
+          "plassering": null,
+          "visningsstyring": {
+            "aktiv": true,
+            "blokknavn": "SCRUBBED",
+            "dato": "2026-07-09T10:33:13.137562798",
+            "defaultMal": null,
+            "parent": "historikk",
+            "plassering": [],
+            "range": {
+              "emptyRange": false,
+              "fromInclude": null,
+              "fromInfinity": true,
+              "malDuration": {},
+              "toInclude": 2027,
+              "toInfinity": false
+            },
+            "visningsstyringDataOgMalDuration": [
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": null,
+                  "fromInfinity": true,
+                  "malDuration": null,
+                  "toInclude": 2022,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {
+                  "lesModus": true
+                }
+              },
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": 2023,
+                  "fromInfinity": false,
+                  "malDuration": null,
+                  "toInclude": 2027,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {
+                  "lesModus": false
+                }
+              }
+            ]
+          },
+          "visningsstyringData": {
+            "lesModus": false
+          }
+        },
+        {
+          "blokknavn": "SCRUBBED",
+          "blokkdata": {
+            "data": {
+              "skattemelding": [
+                {
+                  "utstedtDato": "2019-04-18T13:29:24.869Z",
+                  "identifikator": "SCRUBBED",
+                  "utstedtDatoType": "fastsatt",
+                  "skjoennsfastsatt": false,
+                  "forhaandsfastsatt": false
+                }
+              ]
+            },
+            "hendelsestidspunkt": null,
+            "id": 3023648420,
+            "inntektsaar": 2018,
+            "kilde": "msf-pub-skattemelding",
+            "mal": "historikk-skattemelding",
+            "oppdatert": 1770642324926,
+            "paavegneav": false,
+            "skattyterdata": true
+          },
+          "blokker": [],
+          "plassering": null,
+          "visningsstyring": {
+            "aktiv": true,
+            "blokknavn": "SCRUBBED",
+            "dato": "2026-07-09T10:33:13.137546758",
+            "defaultMal": null,
+            "parent": "historikk",
+            "plassering": [],
+            "range": {
+              "emptyRange": false,
+              "fromInclude": null,
+              "fromInfinity": true,
+              "malDuration": {},
+              "toInclude": 2026,
+              "toInfinity": false
+            },
+            "visningsstyringDataOgMalDuration": [
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": 2023,
+                  "fromInfinity": false,
+                  "malDuration": null,
+                  "toInclude": 2026,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {
+                  "lesModus": false
+                }
+              },
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": null,
+                  "fromInfinity": true,
+                  "malDuration": null,
+                  "toInclude": 2022,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {
+                  "lesModus": true
+                }
+              }
+            ]
+          },
+          "visningsstyringData": {
+            "lesModus": true
+          }
+        },
+        {
+          "blokknavn": "SCRUBBED",
+          "blokkdata": {
+            "data": {
+              "dokumentId": "SCRUBBED",
+              "utstedtDato": "2018-06-27",
+              "identifikator": "SCRUBBED",
+              "forhaandsfastsatt": false
+            },
+            "hendelsestidspunkt": 1530050400000,
+            "id": 1213951604,
+            "inntektsaar": 2017,
+            "kilde": "no.skatteetaten.fastsetting.formueinntekt.mineskatteforhold.msf-pub-skatteinfo2",
+            "mal": "historikk-skatteoppgjoer",
+            "oppdatert": 1770144111932,
+            "paavegneav": false,
+            "skattyterdata": true
+          },
+          "blokker": [],
+          "plassering": null,
+          "visningsstyring": {
+            "aktiv": true,
+            "blokknavn": "SCRUBBED",
+            "dato": "2026-07-09T10:33:13.137562798",
+            "defaultMal": null,
+            "parent": "historikk",
+            "plassering": [],
+            "range": {
+              "emptyRange": false,
+              "fromInclude": null,
+              "fromInfinity": true,
+              "malDuration": {},
+              "toInclude": 2027,
+              "toInfinity": false
+            },
+            "visningsstyringDataOgMalDuration": [
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": null,
+                  "fromInfinity": true,
+                  "malDuration": null,
+                  "toInclude": 2022,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {
+                  "lesModus": true
+                }
+              },
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": 2023,
+                  "fromInfinity": false,
+                  "malDuration": null,
+                  "toInclude": 2027,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {
+                  "lesModus": false
+                }
+              }
+            ]
+          },
+          "visningsstyringData": {
+            "lesModus": true
+          }
+        },
+        {
+          "blokknavn": "SCRUBBED",
+          "blokkdata": {
+            "data": {
+              "dokumentId": "SCRUBBED",
+              "utstedtDato": "2020-04-02",
+              "identifikator": "SCRUBBED",
+              "forhaandsfastsatt": false
+            },
+            "hendelsestidspunkt": 1585778400000,
+            "id": 66001255,
+            "inntektsaar": 2019,
+            "kilde": "no.skatteetaten.fastsetting.formueinntekt.mineskatteforhold.msf-pub-skatteinfo2",
+            "mal": "historikk-skatteoppgjoer",
+            "oppdatert": 1770198155253,
+            "paavegneav": false,
+            "skattyterdata": true
+          },
+          "blokker": [],
+          "plassering": null,
+          "visningsstyring": {
+            "aktiv": true,
+            "blokknavn": "SCRUBBED",
+            "dato": "2026-07-09T10:33:13.137562798",
+            "defaultMal": null,
+            "parent": "historikk",
+            "plassering": [],
+            "range": {
+              "emptyRange": false,
+              "fromInclude": null,
+              "fromInfinity": true,
+              "malDuration": {},
+              "toInclude": 2027,
+              "toInfinity": false
+            },
+            "visningsstyringDataOgMalDuration": [
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": null,
+                  "fromInfinity": true,
+                  "malDuration": null,
+                  "toInclude": 2022,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {
+                  "lesModus": true
+                }
+              },
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": 2023,
+                  "fromInfinity": false,
+                  "malDuration": null,
+                  "toInclude": 2027,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {
+                  "lesModus": false
+                }
+              }
+            ]
+          },
+          "visningsstyringData": {
+            "lesModus": true
+          }
+        },
+        {
+          "blokknavn": "SCRUBBED",
+          "blokkdata": {
+            "data": {
+              "skattemelding": [
+                {
+                  "utstedtDato": "2022-03-22T08:17:48.051Z",
+                  "identifikator": "SCRUBBED",
+                  "utstedtDatoType": "fastsatt",
+                  "skjoennsfastsatt": false,
+                  "forhaandsfastsatt": false
+                }
+              ]
+            },
+            "hendelsestidspunkt": null,
+            "id": 3047341628,
+            "inntektsaar": 2021,
+            "kilde": "msf-pub-skattemelding",
+            "mal": "historikk-skattemelding",
+            "oppdatert": 1770719199920,
+            "paavegneav": false,
+            "skattyterdata": true
+          },
+          "blokker": [],
+          "plassering": null,
+          "visningsstyring": {
+            "aktiv": true,
+            "blokknavn": "SCRUBBED",
+            "dato": "2026-07-09T10:33:13.137546758",
+            "defaultMal": null,
+            "parent": "historikk",
+            "plassering": [],
+            "range": {
+              "emptyRange": false,
+              "fromInclude": null,
+              "fromInfinity": true,
+              "malDuration": {},
+              "toInclude": 2026,
+              "toInfinity": false
+            },
+            "visningsstyringDataOgMalDuration": [
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": 2023,
+                  "fromInfinity": false,
+                  "malDuration": null,
+                  "toInclude": 2026,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {
+                  "lesModus": false
+                }
+              },
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": null,
+                  "fromInfinity": true,
+                  "malDuration": null,
+                  "toInclude": 2022,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {
+                  "lesModus": true
+                }
+              }
+            ]
+          },
+          "visningsstyringData": {
+            "lesModus": true
+          }
+        },
+        {
+          "blokknavn": "SCRUBBED",
+          "blokkdata": {
+            "data": {
+              "dokumentId": "SCRUBBED",
+              "utstedtDato": "2019-06-20",
+              "identifikator": "SCRUBBED",
+              "forhaandsfastsatt": false
+            },
+            "hendelsestidspunkt": 1560981600000,
+            "id": 60756131,
+            "inntektsaar": 2018,
+            "kilde": "no.skatteetaten.fastsetting.formueinntekt.mineskatteforhold.msf-pub-skatteinfo2",
+            "mal": "historikk-skatteoppgjoer",
+            "oppdatert": 1770148611845,
+            "paavegneav": false,
+            "skattyterdata": true
+          },
+          "blokker": [],
+          "plassering": null,
+          "visningsstyring": {
+            "aktiv": true,
+            "blokknavn": "SCRUBBED",
+            "dato": "2026-07-09T10:33:13.137562798",
+            "defaultMal": null,
+            "parent": "historikk",
+            "plassering": [],
+            "range": {
+              "emptyRange": false,
+              "fromInclude": null,
+              "fromInfinity": true,
+              "malDuration": {},
+              "toInclude": 2027,
+              "toInfinity": false
+            },
+            "visningsstyringDataOgMalDuration": [
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": null,
+                  "fromInfinity": true,
+                  "malDuration": null,
+                  "toInclude": 2022,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {
+                  "lesModus": true
+                }
+              },
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": 2023,
+                  "fromInfinity": false,
+                  "malDuration": null,
+                  "toInclude": 2027,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {
+                  "lesModus": false
+                }
+              }
+            ]
+          },
+          "visningsstyringData": {
+            "lesModus": true
+          }
+        },
+        {
+          "blokknavn": "SCRUBBED",
+          "blokkdata": {
+            "data": {
+              "dato": "2023-03-30T10:31:09.701Z",
+              "identifikator": "SCRUBBED",
+              "skjoennsfastsatt": false,
+              "forhaandsfastsatt": false
+            },
+            "hendelsestidspunkt": null,
+            "id": 3432718181,
+            "inntektsaar": 2022,
+            "kilde": "msf-pub-skattemelding",
+            "mal": "historikk-skattemelding-fastsatt",
+            "oppdatert": 1775576692431,
+            "paavegneav": false,
+            "skattyterdata": true
+          },
+          "blokker": [],
+          "plassering": null,
+          "visningsstyring": {
+            "aktiv": true,
+            "blokknavn": "SCRUBBED",
+            "dato": "2026-07-09T10:33:13.137530761",
+            "defaultMal": null,
+            "parent": "historikk",
+            "plassering": [],
+            "range": {
+              "emptyRange": false,
+              "fromInclude": null,
+              "fromInfinity": true,
+              "malDuration": {},
+              "toInclude": 2026,
+              "toInfinity": false
+            },
+            "visningsstyringDataOgMalDuration": [
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": null,
+                  "fromInfinity": true,
+                  "malDuration": null,
+                  "toInclude": 2026,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {}
+              }
+            ]
+          },
+          "visningsstyringData": {}
+        },
+        {
+          "blokknavn": "SCRUBBED",
+          "blokkdata": {
+            "data": {
+              "skattetrekksmelding": [
+                {
+                  "typeSkatt": "skattekort",
+                  "dokumentId": "SCRUBBED",
+                  "harFrikort": "nei",
+                  "utstedtDato": "2024-12-05",
+                  "identifikator": "SCRUBBED",
+                  "revisjonsnummer": "SCRUBBED"
+                },
+                {
+                  "typeSkatt": "skattekort",
+                  "dokumentId": "SCRUBBED",
+                  "harFrikort": "ja",
+                  "utstedtDato": "2025-03-20",
+                  "identifikator": "SCRUBBED",
+                  "revisjonsnummer": "SCRUBBED"
+                },
+                {
+                  "typeSkatt": "skattekort",
+                  "dokumentId": "SCRUBBED",
+                  "harFrikort": "nei",
+                  "utstedtDato": "2025-03-21",
+                  "identifikator": "SCRUBBED",
+                  "revisjonsnummer": "SCRUBBED"
+                },
+                {
+                  "typeSkatt": "skattekort",
+                  "dokumentId": "SCRUBBED",
+                  "harFrikort": "nei",
+                  "utstedtDato": "2025-10-02",
+                  "identifikator": "SCRUBBED",
+                  "revisjonsnummer": "SCRUBBED"
+                }
+              ]
+            },
+            "hendelsestidspunkt": null,
+            "id": 1523837400,
+            "inntektsaar": 2025,
+            "kilde": "no.skatteetaten.fastsetting.formueinntekt.mineskatteforhold.msf-pub-skatteinfo2",
+            "mal": "historikk-skattekort",
+            "oppdatert": 1770113208827,
+            "paavegneav": false,
+            "skattyterdata": true
+          },
+          "blokker": [],
+          "plassering": null,
+          "visningsstyring": {
+            "aktiv": true,
+            "blokknavn": "SCRUBBED",
+            "dato": "2026-07-09T10:33:13.137539913",
+            "defaultMal": null,
+            "parent": "historikk",
+            "plassering": [],
+            "range": {
+              "emptyRange": false,
+              "fromInclude": null,
+              "fromInfinity": true,
+              "malDuration": {},
+              "toInclude": 2026,
+              "toInfinity": false
+            },
+            "visningsstyringDataOgMalDuration": [
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": null,
+                  "fromInfinity": true,
+                  "malDuration": null,
+                  "toInclude": 2026,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {}
+              }
+            ]
+          },
+          "visningsstyringData": {}
+        },
+        {
+          "blokknavn": "SCRUBBED",
+          "blokkdata": {
+            "data": {
+              "dato": "2026-03-19T14:04:38.025Z",
+              "identifikator": "SCRUBBED",
+              "skjoennsfastsatt": false,
+              "forhaandsfastsatt": false
+            },
+            "hendelsestidspunkt": null,
+            "id": 3409963319,
+            "inntektsaar": 2025,
+            "kilde": "msf-pub-skattemelding",
+            "mal": "historikk-skattemelding-fastsatt",
+            "oppdatert": 1774710322678,
+            "paavegneav": false,
+            "skattyterdata": true
+          },
+          "blokker": [],
+          "plassering": null,
+          "visningsstyring": {
+            "aktiv": true,
+            "blokknavn": "SCRUBBED",
+            "dato": "2026-07-09T10:33:13.137530761",
+            "defaultMal": null,
+            "parent": "historikk",
+            "plassering": [],
+            "range": {
+              "emptyRange": false,
+              "fromInclude": null,
+              "fromInfinity": true,
+              "malDuration": {},
+              "toInclude": 2026,
+              "toInfinity": false
+            },
+            "visningsstyringDataOgMalDuration": [
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": null,
+                  "fromInfinity": true,
+                  "malDuration": null,
+                  "toInclude": 2026,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {}
+              }
+            ]
+          },
+          "visningsstyringData": {}
+        },
+        {
+          "blokknavn": "SCRUBBED",
+          "blokkdata": {
+            "data": {
+              "skattemelding": [
+                {
+                  "utstedtDato": "2024-06-12T07:14:07.190Z",
+                  "identifikator": "SCRUBBED",
+                  "utstedtDatoType": "fastsatt",
+                  "skjoennsfastsatt": false,
+                  "forhaandsfastsatt": false
+                }
+              ]
+            },
+            "hendelsestidspunkt": null,
+            "id": 3078280819,
+            "inntektsaar": 2023,
+            "kilde": "msf-pub-skattemelding",
+            "mal": "historikk-skattemelding",
+            "oppdatert": 1770822434090,
+            "paavegneav": false,
+            "skattyterdata": true
+          },
+          "blokker": [],
+          "plassering": null,
+          "visningsstyring": {
+            "aktiv": true,
+            "blokknavn": "SCRUBBED",
+            "dato": "2026-07-09T10:33:13.137546758",
+            "defaultMal": null,
+            "parent": "historikk",
+            "plassering": [],
+            "range": {
+              "emptyRange": false,
+              "fromInclude": null,
+              "fromInfinity": true,
+              "malDuration": {},
+              "toInclude": 2026,
+              "toInfinity": false
+            },
+            "visningsstyringDataOgMalDuration": [
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": 2023,
+                  "fromInfinity": false,
+                  "malDuration": null,
+                  "toInclude": 2026,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {
+                  "lesModus": false
+                }
+              },
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": null,
+                  "fromInfinity": true,
+                  "malDuration": null,
+                  "toInclude": 2022,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {
+                  "lesModus": true
+                }
+              }
+            ]
+          },
+          "visningsstyringData": {
+            "lesModus": false
+          }
+        },
+        {
+          "blokknavn": "SCRUBBED",
+          "blokkdata": {
+            "data": {
+              "skattemelding": [
+                {
+                  "utstedtDato": "2021-03-18T13:19:17.452Z",
+                  "identifikator": "SCRUBBED",
+                  "utstedtDatoType": "fastsatt",
+                  "skjoennsfastsatt": false,
+                  "forhaandsfastsatt": false
+                }
+              ]
+            },
+            "hendelsestidspunkt": null,
+            "id": 3037049951,
+            "inntektsaar": 2020,
+            "kilde": "msf-pub-skattemelding",
+            "mal": "historikk-skattemelding",
+            "oppdatert": 1770708039978,
+            "paavegneav": false,
+            "skattyterdata": true
+          },
+          "blokker": [],
+          "plassering": null,
+          "visningsstyring": {
+            "aktiv": true,
+            "blokknavn": "SCRUBBED",
+            "dato": "2026-07-09T10:33:13.137546758",
+            "defaultMal": null,
+            "parent": "historikk",
+            "plassering": [],
+            "range": {
+              "emptyRange": false,
+              "fromInclude": null,
+              "fromInfinity": true,
+              "malDuration": {},
+              "toInclude": 2026,
+              "toInfinity": false
+            },
+            "visningsstyringDataOgMalDuration": [
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": 2023,
+                  "fromInfinity": false,
+                  "malDuration": null,
+                  "toInclude": 2026,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {
+                  "lesModus": false
+                }
+              },
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": null,
+                  "fromInfinity": true,
+                  "malDuration": null,
+                  "toInclude": 2022,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {
+                  "lesModus": true
+                }
+              }
+            ]
+          },
+          "visningsstyringData": {
+            "lesModus": true
+          }
+        },
+        {
+          "blokknavn": "SCRUBBED",
+          "blokkdata": {
+            "data": {
+              "dokumentId": "SCRUBBED",
+              "utstedtDato": "2024-06-19",
+              "identifikator": "SCRUBBED",
+              "forhaandsfastsatt": false
+            },
+            "hendelsestidspunkt": 1718748000000,
+            "id": 302335985,
+            "inntektsaar": 2023,
+            "kilde": "no.skatteetaten.fastsetting.formueinntekt.mineskatteforhold.msf-pub-skatteinfo2",
+            "mal": "historikk-skatteoppgjoer",
+            "oppdatert": 1770160863842,
+            "paavegneav": false,
+            "skattyterdata": true
+          },
+          "blokker": [],
+          "plassering": null,
+          "visningsstyring": {
+            "aktiv": true,
+            "blokknavn": "SCRUBBED",
+            "dato": "2026-07-09T10:33:13.137562798",
+            "defaultMal": null,
+            "parent": "historikk",
+            "plassering": [],
+            "range": {
+              "emptyRange": false,
+              "fromInclude": null,
+              "fromInfinity": true,
+              "malDuration": {},
+              "toInclude": 2027,
+              "toInfinity": false
+            },
+            "visningsstyringDataOgMalDuration": [
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": null,
+                  "fromInfinity": true,
+                  "malDuration": null,
+                  "toInclude": 2022,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {
+                  "lesModus": true
+                }
+              },
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": 2023,
+                  "fromInfinity": false,
+                  "malDuration": null,
+                  "toInclude": 2027,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {
+                  "lesModus": false
+                }
+              }
+            ]
+          },
+          "visningsstyringData": {
+            "lesModus": false
+          }
+        },
+        {
+          "blokknavn": "SCRUBBED",
+          "blokkdata": {
+            "data": {
+              "skatteoppgjoer": [
+                {
+                  "dokumentId": "SCRUBBED",
+                  "utstedtDato": "2026-04-08",
+                  "identifikator": "SCRUBBED",
+                  "revisjonsnummer": "SCRUBBED",
+                  "forhaandsfastsatt": "false",
+                  "skatteoppgjoerIdentifikator": "SCRUBBED"
+                }
+              ]
+            },
+            "hendelsestidspunkt": 1775599200000,
+            "id": 3403051820,
+            "inntektsaar": 2025,
+            "kilde": "no.skatteetaten.fastsetting.formueinntekt.mineskatteforhold.msf-pub-skatteinfo2",
+            "mal": "historikk-skatteoppgjoer",
+            "oppdatert": 1774625998067,
+            "paavegneav": false,
+            "skattyterdata": true
+          },
+          "blokker": [],
+          "plassering": null,
+          "visningsstyring": {
+            "aktiv": true,
+            "blokknavn": "SCRUBBED",
+            "dato": "2026-07-09T10:33:13.137562798",
+            "defaultMal": null,
+            "parent": "historikk",
+            "plassering": [],
+            "range": {
+              "emptyRange": false,
+              "fromInclude": null,
+              "fromInfinity": true,
+              "malDuration": {},
+              "toInclude": 2027,
+              "toInfinity": false
+            },
+            "visningsstyringDataOgMalDuration": [
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": null,
+                  "fromInfinity": true,
+                  "malDuration": null,
+                  "toInclude": 2022,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {
+                  "lesModus": true
+                }
+              },
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": 2023,
+                  "fromInfinity": false,
+                  "malDuration": null,
+                  "toInclude": 2027,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {
+                  "lesModus": false
+                }
+              }
+            ]
+          },
+          "visningsstyringData": {
+            "lesModus": false
+          }
+        },
+        {
+          "blokknavn": "SCRUBBED",
+          "blokkdata": {
+            "data": {
+              "dokumentId": "SCRUBBED",
+              "utstedtDato": "2022-03-30",
+              "identifikator": "SCRUBBED",
+              "forhaandsfastsatt": false
+            },
+            "hendelsestidspunkt": 1648591200000,
+            "id": 147577376,
+            "inntektsaar": 2021,
+            "kilde": "no.skatteetaten.fastsetting.formueinntekt.mineskatteforhold.msf-pub-skatteinfo2",
+            "mal": "historikk-skatteoppgjoer",
+            "oppdatert": 1770198451731,
+            "paavegneav": false,
+            "skattyterdata": true
+          },
+          "blokker": [],
+          "plassering": null,
+          "visningsstyring": {
+            "aktiv": true,
+            "blokknavn": "SCRUBBED",
+            "dato": "2026-07-09T10:33:13.137562798",
+            "defaultMal": null,
+            "parent": "historikk",
+            "plassering": [],
+            "range": {
+              "emptyRange": false,
+              "fromInclude": null,
+              "fromInfinity": true,
+              "malDuration": {},
+              "toInclude": 2027,
+              "toInfinity": false
+            },
+            "visningsstyringDataOgMalDuration": [
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": null,
+                  "fromInfinity": true,
+                  "malDuration": null,
+                  "toInclude": 2022,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {
+                  "lesModus": true
+                }
+              },
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": 2023,
+                  "fromInfinity": false,
+                  "malDuration": null,
+                  "toInclude": 2027,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {
+                  "lesModus": false
+                }
+              }
+            ]
+          },
+          "visningsstyringData": {
+            "lesModus": true
+          }
+        },
+        {
+          "blokknavn": "SCRUBBED",
+          "blokkdata": {
+            "data": {
+              "dato": "2025-03-20T10:30:40.715Z",
+              "identifikator": "SCRUBBED",
+              "skjoennsfastsatt": false,
+              "forhaandsfastsatt": false
+            },
+            "hendelsestidspunkt": null,
+            "id": 3096111727,
+            "inntektsaar": 2024,
+            "kilde": "msf-pub-skattemelding",
+            "mal": "historikk-skattemelding-fastsatt",
+            "oppdatert": 1770925634078,
+            "paavegneav": false,
+            "skattyterdata": true
+          },
+          "blokker": [],
+          "plassering": null,
+          "visningsstyring": {
+            "aktiv": true,
+            "blokknavn": "SCRUBBED",
+            "dato": "2026-07-09T10:33:13.137530761",
+            "defaultMal": null,
+            "parent": "historikk",
+            "plassering": [],
+            "range": {
+              "emptyRange": false,
+              "fromInclude": null,
+              "fromInfinity": true,
+              "malDuration": {},
+              "toInclude": 2026,
+              "toInfinity": false
+            },
+            "visningsstyringDataOgMalDuration": [
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": null,
+                  "fromInfinity": true,
+                  "malDuration": null,
+                  "toInclude": 2026,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {}
+              }
+            ]
+          },
+          "visningsstyringData": {}
+        },
+        {
+          "blokknavn": "SCRUBBED",
+          "blokkdata": {
+            "data": {
+              "skattetrekksmelding": [
+                {
+                  "typeSkatt": "skattekort",
+                  "dokumentId": "SCRUBBED",
+                  "harFrikort": "nei",
+                  "utstedtDato": "2025-12-05",
+                  "identifikator": "SCRUBBED",
+                  "revisjonsnummer": "SCRUBBED"
+                },
+                {
+                  "typeSkatt": "skattekort",
+                  "dokumentId": "SCRUBBED",
+                  "harFrikort": "nei",
+                  "utstedtDato": "2025-12-26",
+                  "identifikator": "SCRUBBED",
+                  "revisjonsnummer": "SCRUBBED"
+                },
+                {
+                  "typeSkatt": "skattekort",
+                  "dokumentId": "SCRUBBED",
+                  "harFrikort": "nei",
+                  "utstedtDato": "2025-12-26",
+                  "identifikator": "SCRUBBED",
+                  "revisjonsnummer": "SCRUBBED"
+                },
+                {
+                  "typeSkatt": "skattekort",
+                  "dokumentId": "SCRUBBED",
+                  "harFrikort": "nei",
+                  "utstedtDato": "2026-03-19",
+                  "identifikator": "SCRUBBED",
+                  "revisjonsnummer": "SCRUBBED"
+                }
+              ]
+            },
+            "hendelsestidspunkt": null,
+            "id": 2743851753,
+            "inntektsaar": 2026,
+            "kilde": "no.skatteetaten.fastsetting.formueinntekt.mineskatteforhold.msf-pub-skatteinfo2",
+            "mal": "historikk-skattekort",
+            "oppdatert": 1773930295721,
+            "paavegneav": false,
+            "skattyterdata": true
+          },
+          "blokker": [],
+          "plassering": null,
+          "visningsstyring": {
+            "aktiv": true,
+            "blokknavn": "SCRUBBED",
+            "dato": "2026-07-09T10:33:13.137539913",
+            "defaultMal": null,
+            "parent": "historikk",
+            "plassering": [],
+            "range": {
+              "emptyRange": false,
+              "fromInclude": null,
+              "fromInfinity": true,
+              "malDuration": {},
+              "toInclude": 2026,
+              "toInfinity": false
+            },
+            "visningsstyringDataOgMalDuration": [
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": null,
+                  "fromInfinity": true,
+                  "malDuration": null,
+                  "toInclude": 2026,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {}
+              }
+            ]
+          },
+          "visningsstyringData": {}
+        },
+        {
+          "blokknavn": "SCRUBBED",
+          "blokkdata": {
+            "data": {
+              "skattemelding": [
+                {
+                  "utstedtDato": "2026-03-19T14:04:38.025Z",
+                  "identifikator": "SCRUBBED",
+                  "utstedtDatoType": "fastsatt",
+                  "skjoennsfastsatt": false,
+                  "forhaandsfastsatt": false
+                }
+              ]
+            },
+            "hendelsestidspunkt": null,
+            "id": 3409963318,
+            "inntektsaar": 2025,
+            "kilde": "msf-pub-skattemelding",
+            "mal": "historikk-skattemelding",
+            "oppdatert": 1774710322678,
+            "paavegneav": false,
+            "skattyterdata": true
+          },
+          "blokker": [],
+          "plassering": null,
+          "visningsstyring": {
+            "aktiv": true,
+            "blokknavn": "SCRUBBED",
+            "dato": "2026-07-09T10:33:13.137546758",
+            "defaultMal": null,
+            "parent": "historikk",
+            "plassering": [],
+            "range": {
+              "emptyRange": false,
+              "fromInclude": null,
+              "fromInfinity": true,
+              "malDuration": {},
+              "toInclude": 2026,
+              "toInfinity": false
+            },
+            "visningsstyringDataOgMalDuration": [
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": 2023,
+                  "fromInfinity": false,
+                  "malDuration": null,
+                  "toInclude": 2026,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {
+                  "lesModus": false
+                }
+              },
+              {
+                "rangeDto": {
+                  "emptyRange": false,
+                  "fromInclude": null,
+                  "fromInfinity": true,
+                  "malDuration": null,
+                  "toInclude": 2022,
+                  "toInfinity": false
+                },
+                "visningsstyringData": {
+                  "lesModus": true
+                }
+              }
+            ]
+          },
+          "visningsstyringData": {
+            "lesModus": false
+          }
+        }
+      ],
+      "plassering": {
+        "plassering": 10,
+        "contains": null,
+        "notContains": null,
+        "skalSkjulesMedPlasseringslogikk": false
+      },
+      "visningsstyring": null,
+      "visningsstyringData": null
+    },
+    {
+      "blokknavn": "SCRUBBED",
+      "blokkdata": {
+        "data": {},
+        "hendelsestidspunkt": null,
+        "id": -4319882453170474134,
+        "inntektsaar": null,
+        "kilde": "default-data",
+        "mal": "video",
+        "oppdatert": 0,
+        "paavegneav": false,
+        "skattyterdata": false
+      },
+      "blokker": [],
+      "plassering": {
+        "plassering": 11,
+        "contains": null,
+        "notContains": null,
+        "skalSkjulesMedPlasseringslogikk": false
+      },
+      "visningsstyring": {
+        "aktiv": true,
+        "blokknavn": "SCRUBBED",
+        "dato": "2026-07-09T10:33:13.13797551",
+        "defaultMal": null,
+        "parent": null,
+        "plassering": [],
+        "range": {
+          "emptyRange": false,
+          "fromInclude": null,
+          "fromInfinity": true,
+          "malDuration": {},
+          "toInclude": null,
+          "toInfinity": true
+        },
+        "visningsstyringDataOgMalDuration": [
+          {
+            "rangeDto": {
+              "emptyRange": false,
+              "fromInclude": null,
+              "fromInfinity": true,
+              "malDuration": null,
+              "toInclude": null,
+              "toInfinity": true
+            },
+            "visningsstyringData": {}
+          }
+        ]
+      },
+      "visningsstyringData": null
+    },
+    {
+      "blokknavn": "SCRUBBED",
+      "blokkdata": {
+        "data": {},
+        "hendelsestidspunkt": null,
+        "id": -600257163719101302,
+        "inntektsaar": null,
+        "kilde": "default-data",
+        "mal": "slik-henger-det-sammen",
+        "oppdatert": 0,
+        "paavegneav": false,
+        "skattyterdata": false
+      },
+      "blokker": [],
+      "plassering": {
+        "plassering": 12,
+        "contains": null,
+        "notContains": null,
+        "skalSkjulesMedPlasseringslogikk": false
+      },
+      "visningsstyring": null,
+      "visningsstyringData": null
+    }
+  ],
+  "gjeldendetid": "2026-07-09 10:33",
+  "navn": "SCRUBBED",
+  "visningsnavn": "SCRUBBED"
+}
